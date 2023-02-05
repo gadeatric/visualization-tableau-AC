@@ -1,0 +1,392 @@
+ID,Name,Species,Gender,Personality,Subtype,Hobby,Birthday,Style 1,Style 2,Color 1,Color 2
+0,Admiral,Bird,Male,Cranky,A,Nature,1-27,Cool,Cool,Black,Blue
+1,Agent S,Squirrel,Female,Peppy,B,Fitness,7-2,Active,Simple,Blue,Black
+2,Agnes,Pig,Female,Big Sister,A,Play,4-21,Simple,Elegant,Pink,White
+3,Al,Gorilla,Male,Lazy,B,Fitness,10-18,Active,Active,Red,White
+4,Alfonso,Alligator,Male,Lazy,B,Play,6-9,Simple,Simple,Red,Blue
+5,Alice,Koala,Female,Normal,B,Education,8-19,Cute,Cute,Red,Pink
+6,Alli,Alligator,Female,Snooty,B,Fashion,11-8,Gorgeous,Elegant,Yellow,Brown
+7,Amelia,Eagle,Female,Snooty,B,Music,11-19,Cool,Elegant,Black,White
+8,Anabelle,Anteater,Female,Peppy,B,Fashion,2-16,Cute,Simple,Green,Blue
+9,Anchovy,Bird,Male,Lazy,B,Play,3-4,Simple,Simple,Colorful,Orange
+10,Angus,Bull,Male,Cranky,B,Fitness,4-30,Cool,Cool,Red,Black
+11,Anicotti,Mouse,Female,Peppy,B,Fashion,2-24,Simple,Elegant,Red,Pink
+12,Ankha,Cat,Female,Snooty,B,Nature,9-22,Gorgeous,Simple,Colorful,Brown
+13,Annalisa,Anteater,Female,Normal,A,Nature,2-6,Elegant,Gorgeous,Red,Pink
+14,Annalise,Horse,Female,Snooty,B,Fashion,12-2,Elegant,Active,Blue,Purple
+15,Antonio,Anteater,Male,Jock,B,Fitness,10-20,Simple,Simple,Light blue,Blue
+16,Apollo,Eagle,Male,Cranky,B,Music,7-4,Cool,Simple,Black,Black
+17,Apple,Hamster,Female,Peppy,A,Play,9-24,Cute,Simple,Colorful,Red
+18,Astrid,Kangaroo,Female,Snooty,B,Music,9-8,Cool,Active,Black,Colorful
+19,Audie,Wolf,Female,Peppy,A,Fitness,8-31,Cute,Active,Green,White
+20,Aurora,Penguin,Female,Normal,B,Education,1-27,Cute,Elegant,Pink,Red
+21,Ava,Chicken,Female,Normal,B,Music,4-28,Elegant,Cute,Red,Gray
+22,Avery,Eagle,Male,Cranky,B,Music,2-22,Simple,Gorgeous,Orange,Brown
+23,Axel,Elephant,Male,Jock,B,Fitness,3-23,Active,Simple,Green,White
+24,Baabara,Sheep,Female,Snooty,B,Fashion,3-28,Gorgeous,Elegant,Purple,Blue
+25,Bam,Deer,Male,Jock,A,Play,11-7,Active,Simple,Green,Brown
+26,Bangle,Tiger,Female,Peppy,B,Fashion,8-27,Gorgeous,Cute,Yellow,Green
+27,Barold,Cub,Male,Lazy,A,Play,3-2,Simple,Cool,Yellow,Black
+28,Bea,Dog,Female,Normal,A,Nature,10-15,Simple,Cool,Light blue,Green
+29,Beardo,Bear,Male,Smug,A,Education,9-27,Elegant,Elegant,Brown,Blue
+30,Beau,Deer,Male,Lazy,A,Nature,4-5,Simple,Cute,Beige,Orange
+31,Becky,Chicken,Female,Snooty,B,Music,12-9,Gorgeous,Elegant,Purple,Pink
+32,Bella,Mouse,Female,Peppy,B,Music,12-28,Cool,Active,Black,Purple
+33,Benedict,Chicken,Male,Lazy,B,Play,10-10,Simple,Simple,Blue,Purple
+34,Benjamin,Dog,Male,Lazy,A,Nature,8-3,Simple,Simple,Red,White
+35,Bertha,Hippo,Female,Normal,B,Education,4-25,Cute,Elegant,Pink,White
+36,Bettina,Mouse,Female,Normal,B,Education,6-12,Simple,Elegant,White,Red
+37,Bianca,Tiger,Female,Peppy,A,Play,12-13,Cute,Cute,Pink,Orange
+38,Biff,Hippo,Male,Jock,B,Fitness,3-29,Gorgeous,Active,Black,Blue
+39,Big Top,Elephant,Male,Lazy,B,Play,10-3,Simple,Active,Green,Green
+40,Bill,Duck,Male,Jock,A,Play,2-1,Active,Active,Blue,Purple
+41,Billy,Goat,Male,Jock,A,Play,3-25,Simple,Active,Blue,Purple
+42,Biskit,Dog,Male,Lazy,B,Play,5-13,Gorgeous,Simple,Purple,Colorful
+43,Bitty,Hippo,Female,Snooty,A,Education,10-6,Cute,Elegant,Pink,Orange
+44,Blaire,Squirrel,Female,Snooty,B,Fashion,7-3,Gorgeous,Elegant,Orange,Brown
+45,Blanche,Ostrich,Female,Snooty,A,Nature,12-21,Elegant,Gorgeous,Black,Brown
+46,Bluebear,Cub,Female,Peppy,B,Fashion,6-24,Cute,Simple,White,Blue
+47,Bob,Cat,Male,Lazy,B,Play,1-1,Simple,Cute,Colorful,Red
+48,Bonbon,Rabbit,Female,Peppy,A,Play,3-3,Cute,Elegant,Light blue,Yellow
+49,Bones,Dog,Male,Lazy,B,Play,8-4,Simple,Cute,Beige,Brown
+50,Boomer,Penguin,Male,Lazy,B,Fitness,2-7,Simple,Cool,Brown,Beige
+51,Boone,Gorilla,Male,Jock,B,Fitness,9-12,Elegant,Cool,Colorful,Red
+52,Boots,Alligator,Male,Jock,A,Play,8-7,Gorgeous,Active,Colorful,Purple
+53,Boris,Pig,Male,Cranky,A,Nature,11-6,Cool,Gorgeous,Purple,Black
+54,Boyd,Gorilla,Male,Cranky,A,Fitness,10-1,Simple,Cool,Red,Black
+55,Bree,Mouse,Female,Snooty,B,Fashion,7-7,Elegant,Gorgeous,Black,Blue
+56,Broccolo,Mouse,Male,Lazy,B,Play,6-30,Simple,Cute,Colorful,Yellow
+57,Broffina,Chicken,Female,Snooty,A,Music,10-24,Gorgeous,Elegant,Black,Red
+58,Bruce,Deer,Male,Cranky,A,Nature,5-26,Cool,Simple,Black,Red
+59,Bubbles,Hippo,Female,Peppy,B,Fashion,9-18,Active,Cute,Purple,Pink
+60,Buck,Horse,Male,Jock,B,Fitness,4-4,Active,Simple,Gray,Brown
+61,Bud,Lion,Male,Jock,B,Fitness,8-8,Active,Simple,Green,Yellow
+62,Bunnie,Rabbit,Female,Peppy,B,Fashion,5-9,Cute,Cute,Green,Pink
+63,Butch,Dog,Male,Cranky,B,Music,11-1,Cool,Simple,Blue,Gray
+64,Buzz,Eagle,Male,Cranky,A,Nature,12-7,Simple,Active,Yellow,Red
+65,Cally,Squirrel,Female,Normal,B,Nature,9-4,Cute,Elegant,Red,Green
+66,Camofrog,Frog,Male,Cranky,B,Music,6-5,Cool,Active,Blue,White
+67,Canberra,Koala,Female,Big Sister,A,Play,5-14,Active,Cool,Green,Light blue
+68,Candi,Mouse,Female,Peppy,A,Play,4-13,Simple,Cute,Light blue,Yellow
+69,Carmen,Rabbit,Female,Peppy,B,Fashion,1-6,Elegant,Cute,Green,Beige
+70,Caroline,Squirrel,Female,Normal,B,Music,7-15,Cute,Gorgeous,Colorful,White
+71,Carrie,Kangaroo,Female,Normal,A,Nature,12-5,Cute,Cute,Red,Colorful
+72,Cashmere,Sheep,Female,Snooty,A,Fashion,4-2,Gorgeous,Elegant,Purple,Beige
+73,Celia,Eagle,Female,Normal,A,Nature,3-25,Elegant,Cute,Pink,Green
+74,Cesar,Gorilla,Male,Cranky,B,Fitness,9-6,Cool,Elegant,Blue,Light blue
+75,Chadder,Mouse,Male,Smug,A,Fitness,12-15,Elegant,Gorgeous,Black,Gray
+76,Charlise,Bear,Female,Big Sister,B,Fitness,4-17,Active,Cute,Red,Orange
+77,Cheri,Cub,Female,Peppy,B,Fashion,3-17,Simple,Cute,Yellow,Light blue
+78,Cherry,Dog,Female,Big Sister,A,Music,5-11,Cool,Elegant,Black,Purple
+79,Chester,Cub,Male,Lazy,B,Play,8-6,Simple,Simple,Yellow,Green
+80,Chevre,Goat,Female,Normal,B,Education,3-6,Cute,Elegant,Red,Pink
+81,Chief,Wolf,Male,Cranky,B,Music,12-19,Cool,Simple,White,Gray
+82,Chops,Pig,Male,Smug,A,Education,10-13,Gorgeous,Elegant,Red,Green
+83,Chow,Bear,Male,Cranky,B,Fitness,7-22,Cool,Gorgeous,Black,White
+84,Chrissy,Rabbit,Female,Peppy,B,Fashion,8-28,Cute,Cute,Pink,White
+85,Claude,Rabbit,Male,Lazy,A,Nature,12-3,Simple,Simple,Black,Colorful
+86,Claudia,Tiger,Female,Snooty,A,Music,11-22,Gorgeous,Elegant,Purple,White
+87,Clay,Hamster,Male,Lazy,A,Nature,10-19,Elegant,Simple,Beige,Brown
+88,Cleo,Horse,Female,Snooty,A,Education,2-9,Cute,Elegant,Light blue,White
+89,Clyde,Horse,Male,Lazy,B,Play,5-1,Simple,Cute,Green,White
+90,Coach,Bull,Male,Jock,A,Fitness,4-29,Active,Active,Blue,Red
+91,Cobb,Pig,Male,Jock,B,Education,10-7,Simple,Active,White,Blue
+92,Coco,Rabbit,Female,Normal,B,Education,3-1,Simple,Cute,Beige,Green
+93,Cole,Rabbit,Male,Lazy,A,Nature,8-10,Simple,Cute,Orange,Colorful
+94,Colton,Horse,Male,Smug,A,Nature,5-22,Gorgeous,Elegant,Blue,Red
+95,Cookie,Dog,Female,Peppy,B,Fashion,6-18,Cute,Cute,Green,Light blue
+96,Cousteau,Frog,Male,Jock,B,Fitness,12-17,Elegant,Gorgeous,Green,Red
+97,Cranston,Ostrich,Male,Lazy,A,Nature,9-23,Simple,Cool,Beige,Brown
+98,Croque,Frog,Male,Cranky,A,Nature,7-18,Elegant,Cool,Red,Orange
+99,Cube,Penguin,Male,Lazy,B,Play,1-29,Simple,Cute,Yellow,Colorful
+100,Curlos,Sheep,Male,Smug,B,Nature,5-8,Active,Gorgeous,Red,Green
+101,Curly,Pig,Male,Jock,B,Fitness,7-26,Simple,Active,Yellow,Colorful
+102,Curt,Bear,Male,Cranky,A,Nature,7-1,Cool,Cool,Blue,White
+103,Cyd,Elephant,Male,Cranky,A,Music,6-9,Cool,Active,Black,Yellow
+104,Cyrano,Anteater,Male,Cranky,B,Education,3-9,Cool,Active,Yellow,Beige
+105,Daisy,Dog,Female,Normal,B,Education,11-16,Simple,Cute,Colorful,Blue
+106,Deena,Duck,Female,Normal,B,Education,6-27,Simple,Cute,Colorful,Blue
+107,Deirdre,Deer,Female,Big Sister,A,Play,5-4,Simple,Simple,Orange,Orange
+108,Del,Alligator,Male,Cranky,B,Fitness,5-27,Cool,Simple,Blue,White
+109,Deli,Monkey,Male,Lazy,A,Nature,5-24,Gorgeous,Elegant,Purple,Brown
+110,Derwin,Duck,Male,Lazy,B,Play,5-25,Simple,Elegant,Yellow,Beige
+111,Diana,Deer,Female,Snooty,A,Education,1-4,Elegant,Gorgeous,Purple,Pink
+112,Diva,Frog,Female,Big Sister,A,Fitness,10-2,Gorgeous,Elegant,Purple,Light blue
+113,Dizzy,Elephant,Male,Lazy,B,Play,7-14,Simple,Simple,Yellow,Blue
+114,Dobie,Wolf,Male,Cranky,A,Nature,2-17,Simple,Cool,Brown,Beige
+115,Doc,Rabbit,Male,Lazy,B,Education,3-16,Simple,Elegant,Gray,Beige
+116,Dom,Sheep,Male,Jock,A,Play,3-18,Active,Cute,Red,Colorful
+117,Dora,Mouse,Female,Normal,B,Education,2-18,Simple,Elegant,Blue,Light blue
+118,Dotty,Rabbit,Female,Peppy,B,Fashion,3-14,Simple,Cute,Blue,Black
+119,Drago,Alligator,Male,Lazy,A,Nature,2-12,Elegant,Gorgeous,Orange,Red
+120,Drake,Duck,Male,Lazy,B,Play,6-25,Cool,Simple,Brown,Red
+121,Drift,Frog,Male,Jock,B,Fitness,10-9,Simple,Active,Orange,Red
+122,Ed,Horse,Male,Smug,B,Nature,9-16,Gorgeous,Elegant,Black,Gray
+123,Egbert,Chicken,Male,Lazy,B,Play,10-14,Simple,Simple,Beige,Brown
+124,Elise,Monkey,Female,Snooty,B,Fashion,3-21,Elegant,Gorgeous,Purple,Red
+125,Ellie,Elephant,Female,Normal,A,Nature,5-12,Simple,Cute,Gray,Pink
+126,Elmer,Horse,Male,Lazy,B,Play,10-5,Simple,Cool,Blue,White
+127,Eloise,Elephant,Female,Snooty,B,Fashion,12-8,Elegant,Simple,Green,Orange
+128,Elvis,Lion,Male,Cranky,B,Education,7-23,Gorgeous,Elegant,Red,Black
+129,Erik,Deer,Male,Lazy,A,Nature,7-27,Simple,Simple,Beige,Red
+130,Eugene,Koala,Male,Smug,A,Music,10-26,Cool,Gorgeous,Black,Gray
+131,Eunice,Sheep,Female,Normal,B,Fashion,4-3,Simple,Elegant,Beige,Orange
+132,Fang,Wolf,Male,Cranky,B,Education,12-18,Simple,Cool,White,Light blue
+133,Fauna,Deer,Female,Normal,A,Nature,3-26,Simple,Cute,Beige,White
+134,Felicity,Cat,Female,Peppy,B,Fashion,3-30,Cute,Cute,Yellow,Orange
+135,Filbert,Squirrel,Male,Lazy,A,Nature,6-3,Simple,Cute,Blue,White
+136,Flip,Monkey,Male,Jock,A,Music,11-21,Active,Simple,Blue,Yellow
+137,Flo,Penguin,Female,Big Sister,A,Music,9-2,Cool,Gorgeous,Red,Purple
+138,Flora,Ostrich,Female,Peppy,A,Play,2-9,Cute,Active,Colorful,Pink
+139,Flurry,Hamster,Female,Normal,A,Nature,1-30,Elegant,Cute,Red,Pink
+140,Francine,Rabbit,Female,Snooty,B,Fashion,1-22,Elegant,Gorgeous,Blue,Black
+141,Frank,Eagle,Male,Cranky,B,Education,7-30,Gorgeous,Cool,Brown,Yellow
+142,Freckles,Duck,Female,Peppy,B,Fashion,2-19,Simple,Cute,Green,Colorful
+143,Freya,Wolf,Female,Snooty,B,Fashion,12-14,Elegant,Cool,Green,Blue
+144,Friga,Penguin,Female,Snooty,B,Fashion,10-16,Elegant,Gorgeous,Pink,Black
+145,Frita,Sheep,Female,Big Sister,A,Music,7-16,Active,Cute,Yellow,Red
+146,Frobert,Frog,Male,Jock,B,Fitness,2-8,Active,Simple,Blue,Colorful
+147,Fuchsia,Deer,Female,Big Sister,A,Music,9-19,Cool,Cool,Pink,Pink
+148,Gabi,Rabbit,Female,Peppy,B,Fashion,12-16,Cute,Gorgeous,Brown,Red
+149,Gala,Pig,Female,Normal,B,Education,3-5,Cute,Elegant,Pink,White
+150,Gaston,Rabbit,Male,Cranky,B,Education,10-28,Simple,Gorgeous,Brown,Orange
+151,Gayle,Alligator,Female,Normal,A,Nature,5-17,Cute,Cute,Pink,White
+152,Genji,Rabbit,Male,Jock,B,Fitness,1-21,Elegant,Simple,Green,Purple
+153,Gigi,Frog,Female,Snooty,B,Fashion,8-11,Gorgeous,Elegant,Black,White
+154,Gladys,Ostrich,Female,Normal,B,Education,1-15,Elegant,Cute,Green,Pink
+155,Gloria,Duck,Female,Snooty,B,Fashion,8-12,Gorgeous,Elegant,Black,Gray
+156,Goldie,Dog,Female,Normal,B,Nature,12-27,Simple,Cute,Yellow,Orange
+157,Gonzo,Koala,Male,Cranky,A,Nature,10-13,Simple,Cool,Black,Green
+158,Goose,Chicken,Male,Jock,B,Fitness,10-4,Simple,Active,Blue,White
+159,Graham,Hamster,Male,Smug,A,Education,6-20,Simple,Cool,Green,Orange
+160,Greta,Mouse,Female,Snooty,A,Education,9-5,Elegant,Simple,Pink,Purple
+161,Grizzly,Bear,Male,Cranky,B,Education,7-31,Cool,Simple,Red,Black
+162,Groucho,Bear,Male,Cranky,B,Music,10-23,Cool,Simple,Black,Gray
+163,Gruff,Goat,Male,Cranky,B,Music,8-29,Cool,Gorgeous,Purple,Black
+164,Gwen,Penguin,Female,Snooty,B,Fashion,1-23,Gorgeous,Elegant,Green,White
+165,Hamlet,Hamster,Male,Jock,A,Play,5-30,Simple,Active,Purple,Blue
+166,Hamphrey,Hamster,Male,Cranky,A,Nature,2-25,Cool,Simple,Gray,Beige
+167,Hans,Gorilla,Male,Smug,A,Fitness,12-5,Elegant,Gorgeous,Gray,Blue
+168,Harry,Hippo,Male,Cranky,B,Education,1-7,Cool,Simple,Green,Orange
+169,Hazel,Squirrel,Female,Big Sister,A,Play,8-30,Active,Cute,Red,Yellow
+170,Henry,Frog,Male,Smug,A,Music,9-21,Cool,Simple,Light blue,Blue
+171,Hippeux,Hippo,Male,Smug,A,Education,10-15,Elegant,Gorgeous,Brown,Green
+172,Hopkins,Rabbit,Male,Lazy,A,Nature,3-11,Simple,Active,Blue,Yellow
+173,Hopper,Penguin,Male,Cranky,B,Music,4-6,Cool,Simple,Yellow,Red
+174,Hornsby,Rhino,Male,Lazy,A,Nature,3-20,Simple,Simple,Green,Brown
+175,Huck,Frog,Male,Smug,A,Fitness,7-9,Simple,Cool,Green,Yellow
+176,Hugh,Pig,Male,Lazy,B,Play,12-30,Simple,Active,Beige,Yellow
+177,Iggly,Penguin,Male,Jock,B,Fitness,11-2,Active,Simple,Red,Blue
+178,Ike,Bear,Male,Cranky,A,Nature,5-16,Cool,Cool,Green,Blue
+179,Jacob,Bird,Male,Lazy,A,Nature,8-24,Simple,Simple,Green,Red
+180,Jacques,Bird,Male,Smug,A,Music,6-22,Cool,Simple,Green,Black
+181,Jambette,Frog,Female,Normal,B,Fashion,10-27,Cool,Cool,Brown,Brown
+182,Jay,Bird,Male,Jock,B,Fitness,7-17,Active,Active,Blue,Light blue
+183,Jeremiah,Frog,Male,Lazy,B,Play,7-8,Simple,Simple,Orange,Yellow
+184,Jitters,Bird,Male,Jock,B,Fitness,2-2,Active,Active,Yellow,Orange
+185,Joey,Duck,Male,Lazy,B,Play,1-3,Simple,Simple,Green,Blue
+186,Judy,Cub,Female,Snooty,A,Music,3-10,Cute,Elegant,Pink,White
+187,Julia,Ostrich,Female,Snooty,A,Education,7-31,Elegant,Gorgeous,Purple,Red
+188,Julian,Horse,Male,Smug,A,Music,3-15,Gorgeous,Cool,Purple,Blue
+189,June,Cub,Female,Normal,A,Nature,5-21,Cute,Simple,White,Red
+190,Kabuki,Cat,Male,Cranky,B,Music,11-29,Simple,Simple,Purple,Red
+191,Katt,Cat,Female,Big Sister,A,Music,4-27,Cool,Cool,Purple,Black
+192,Keaton,Eagle,Male,Smug,A,Music,6-1,Gorgeous,Cool,Blue,White
+193,Ken,Chicken,Male,Smug,A,Education,12-23,Cool,Simple,Purple,Blue
+194,Ketchup,Duck,Female,Peppy,A,Play,7-27,Cute,Cute,Light blue,White
+195,Kevin,Pig,Male,Jock,A,Play,4-26,Active,Simple,Black,Red
+196,Kid Cat,Cat,Male,Jock,B,Fitness,8-1,Active,Simple,Red,Red
+197,Kidd,Goat,Male,Smug,B,Education,6-28,Elegant,Cool,Gray,White
+198,Kiki,Cat,Female,Normal,B,Education,10-8,Simple,Simple,Brown,Beige
+199,Kitt,Kangaroo,Female,Normal,B,Education,10-11,Elegant,Simple,Purple,Red
+200,Kitty,Cat,Female,Snooty,B,Fashion,2-15,Elegant,Gorgeous,Green,Gray
+201,Klaus,Bear,Male,Smug,A,Education,3-31,Simple,Simple,Gray,White
+202,Knox,Chicken,Male,Cranky,B,Education,11-23,Elegant,Gorgeous,Brown,Red
+203,Kody,Cub,Male,Jock,B,Fitness,9-28,Active,Simple,Colorful,White
+204,Kyle,Wolf,Male,Smug,A,Music,12-6,Gorgeous,Cool,Black,White
+205,Leonardo,Tiger,Male,Jock,B,Fitness,5-15,Active,Gorgeous,Red,Blue
+206,Leopold,Lion,Male,Smug,A,Education,8-14,Elegant,Gorgeous,Purple,Green
+207,Lily,Frog,Female,Normal,B,Education,2-4,Cute,Simple,White,Yellow
+208,Limberg,Mouse,Male,Cranky,B,Education,10-17,Simple,Cool,Green,Blue
+209,Lionel,Lion,Male,Smug,A,Music,7-29,Gorgeous,Active,Green,Gray
+210,Lobo,Wolf,Male,Cranky,B,Education,11-5,Cool,Active,Black,Beige
+211,Lolly,Cat,Female,Normal,B,Music,3-27,Simple,Simple,Gray,Pink
+212,Lopez,Deer,Male,Smug,A,Education,8-20,Gorgeous,Gorgeous,Gray,Gray
+213,Louie,Gorilla,Male,Jock,A,Fitness,3-26,Active,Simple,Gray,Red
+214,Lucha,Bird,Male,Smug,A,Fitness,12-12,Active,Cool,Black,Gray
+215,Lucky,Dog,Male,Lazy,B,Play,11-4,Simple,Simple,Beige,White
+216,Lucy,Pig,Female,Normal,B,Music,6-2,Cute,Elegant,Pink,Red
+217,Lyman,Koala,Male,Jock,A,Play,10-12,Simple,Active,Light blue,Yellow
+218,Mac,Dog,Male,Jock,B,Fitness,11-11,Active,Cool,Red,Black
+219,Maddie,Dog,Female,Peppy,A,Play,1-11,Simple,Cute,Purple,Pink
+220,Maelle,Duck,Female,Snooty,B,Fashion,4-8,Cool,Simple,Pink,White
+221,Maggie,Pig,Female,Normal,A,Nature,9-3,Cute,Elegant,Green,Yellow
+222,Mallary,Duck,Female,Snooty,B,Fashion,11-17,Cool,Gorgeous,Blue,White
+223,Maple,Cub,Female,Normal,B,Education,6-15,Simple,Cute,Beige,Green
+224,Marcel,Dog,Male,Lazy,B,Play,12-31,Simple,Cool,Green,Blue
+225,Marcie,Kangaroo,Female,Normal,A,Nature,5-31,Cute,Elegant,Pink,Beige
+226,Margie,Elephant,Female,Normal,B,Education,1-28,Elegant,Cute,Pink,Red
+227,Marina,Octopus,Female,Normal,B,Music,6-26,Cute,Cute,Pink,Red
+228,Marshal,Squirrel,Male,Smug,A,Music,9-29,Elegant,Cool,Light blue,Blue
+229,Mathilda,Kangaroo,Female,Snooty,B,Fitness,11-12,Cool,Gorgeous,White,Red
+230,Megan,Bear,Female,Normal,A,Nature,3-13,Cute,Simple,Yellow,Light blue
+231,Melba,Koala,Female,Normal,B,Education,4-12,Cute,Cute,White,Green
+232,Merengue,Rhino,Female,Normal,A,Nature,3-19,Cute,Simple,White,Red
+233,Merry,Cat,Female,Peppy,B,Fashion,6-29,Cute,Cute,Pink,Light blue
+234,Midge,Bird,Female,Normal,B,Education,3-12,Cute,Simple,Pink,Pink
+235,Mint,Squirrel,Female,Snooty,B,Fashion,5-2,Gorgeous,Cute,Pink,Purple
+236,Mira,Rabbit,Female,Big Sister,A,Fitness,7-6,Active,Cool,Red,Yellow
+237,Miranda,Duck,Female,Snooty,B,Fashion,4-23,Elegant,Gorgeous,Blue,Purple
+238,Mitzi,Cat,Female,Normal,B,Education,9-25,Simple,Simple,Brown,Beige
+239,Moe,Cat,Male,Lazy,B,Play,1-12,Active,Simple,Black,Gray
+240,Molly,Duck,Female,Normal,A,Nature,3-7,Cute,Simple,Yellow,Pink
+241,Monique,Cat,Female,Snooty,B,Fashion,9-30,Gorgeous,Elegant,Purple,Pink
+242,Monty,Monkey,Male,Cranky,B,Education,12-7,Cool,Cool,Yellow,Gray
+243,Moose,Mouse,Male,Jock,B,Fitness,9-13,Cool,Gorgeous,Purple,Red
+244,Mott,Lion,Male,Jock,B,Fitness,7-10,Active,Elegant,Blue,Green
+245,Muffy,Sheep,Female,Big Sister,A,Music,2-14,Gorgeous,Elegant,Black,Purple
+246,Murphy,Cub,Male,Cranky,A,Education,12-29,Simple,Cool,Blue,White
+247,Nan,Goat,Female,Normal,B,Nature,8-24,Simple,Elegant,Orange,Yellow
+248,Nana,Monkey,Female,Normal,B,Education,8-23,Cute,Cute,Pink,White
+249,Naomi,Cow,Female,Snooty,A,Fashion,2-28,Elegant,Gorgeous,Colorful,Purple
+250,Nate,Bear,Male,Lazy,B,Play,8-16,Simple,Simple,White,Green
+251,Nibbles,Squirrel,Female,Peppy,B,Fashion,7-19,Cute,Active,Red,Yellow
+252,Norma,Cow,Female,Normal,A,Nature,9-20,Cute,Simple,White,Light blue
+253,O'Hare,Rabbit,Male,Smug,B,Nature,7-24,Active,Cool,Blue,Light blue
+254,Octavian,Octopus,Male,Cranky,B,Play,9-20,Cool,Simple,Black,White
+255,Olaf,Anteater,Male,Smug,A,Education,5-19,Elegant,Gorgeous,Red,Black
+256,Olive,Cub,Female,Normal,A,Nature,7-12,Simple,Simple,Brown,Yellow
+257,Olivia,Cat,Female,Snooty,B,Music,2-3,Cool,Elegant,White,Black
+258,Opal,Elephant,Female,Snooty,B,Fashion,1-20,Elegant,Cool,Black,Orange
+259,Ozzie,Koala,Male,Lazy,B,Play,5-7,Simple,Cute,Yellow,Orange
+260,Pancetti,Pig,Female,Snooty,A,Music,11-14,Cute,Gorgeous,Red,Yellow
+261,Pango,Anteater,Female,Peppy,B,Fashion,11-9,Elegant,Cool,Orange,Purple
+262,Paolo,Elephant,Male,Lazy,A,Nature,5-5,Simple,Elegant,Gray,Light blue
+263,Papi,Horse,Male,Lazy,A,Nature,1-10,Simple,Simple,Orange,Light blue
+264,Pashmina,Goat,Female,Big Sister,A,Music,12-26,Cool,Elegant,Red,Colorful
+265,Pate,Duck,Female,Peppy,B,Fashion,2-23,Simple,Cute,Yellow,White
+266,Patty,Cow,Female,Peppy,B,Fashion,5-10,Simple,Cute,Orange,Red
+267,Paula,Bear,Female,Big Sister,B,Fitness,3-22,Cute,Active,Orange,Green
+268,Peaches,Horse,Female,Normal,B,Education,11-28,Cute,Simple,Colorful,Light blue
+269,Peanut,Squirrel,Female,Peppy,B,Fashion,6-8,Cute,Cute,Red,Colorful
+270,Pecan,Squirrel,Female,Snooty,B,Fashion,9-10,Elegant,Gorgeous,Purple,Beige
+271,Peck,Bird,Male,Jock,A,Play,7-25,Simple,Active,Beige,Red
+272,Peewee,Gorilla,Male,Cranky,B,Fitness,9-11,Active,Cool,Orange,Blue
+273,Peggy,Pig,Female,Peppy,B,Fashion,5-23,Cute,Active,Blue,Red
+274,Pekoe,Cub,Female,Normal,B,Nature,5-18,Elegant,Cute,Red,Beige
+275,Penelope,Mouse,Female,Peppy,A,Fashion,2-5,Cute,Gorgeous,Pink,Red
+276,Phil,Ostrich,Male,Smug,A,Music,11-27,Elegant,Cool,Green,Red
+277,Phoebe,Ostrich,Female,Big Sister,A,Fitness,4-22,Gorgeous,Cool,Black,Red
+278,Pierce,Eagle,Male,Jock,B,Fitness,1-8,Elegant,Active,Orange,Yellow
+279,Pietro,Sheep,Male,Smug,A,Music,4-19,Gorgeous,Simple,Colorful,Red
+280,Pinky,Bear,Female,Peppy,B,Fashion,9-9,Cute,Simple,Red,Pink
+281,Piper,Bird,Female,Peppy,A,Play,4-18,Elegant,Gorgeous,Black,White
+282,Pippy,Rabbit,Female,Peppy,B,Fashion,6-14,Cute,Simple,Green,Brown
+283,Plucky,Chicken,Female,Big Sister,A,Play,10-12,Cool,Simple,Light blue,Yellow
+284,Pompom,Duck,Female,Peppy,B,Music,2-11,Cute,Simple,Pink,Light blue
+285,Poncho,Cub,Male,Jock,B,Fitness,1-2,Simple,Simple,Orange,Yellow
+286,Poppy,Squirrel,Female,Normal,B,Education,8-5,Cute,Elegant,Green,Yellow
+287,Portia,Dog,Female,Snooty,B,Fashion,10-25,Elegant,Gorgeous,Purple,Black
+288,Prince,Frog,Male,Lazy,B,Play,7-21,Simple,Active,Yellow,White
+289,Puck,Penguin,Male,Lazy,B,Fitness,2-21,Active,Simple,Blue,Red
+290,Puddles,Frog,Female,Peppy,B,Fashion,1-13,Cute,Gorgeous,Green,Pink
+291,Pudge,Cub,Male,Lazy,B,Play,6-11,Simple,Simple,Green,Blue
+292,Punchy,Cat,Male,Lazy,B,Play,4-11,Simple,Simple,Blue,Light blue
+293,Purrl,Cat,Female,Snooty,B,Fashion,5-29,Cool,Elegant,Gray,Blue
+294,Queenie,Ostrich,Female,Snooty,B,Fashion,11-13,Gorgeous,Elegant,Black,Gray
+295,Quillson,Duck,Male,Smug,A,Music,12-22,Elegant,Cool,Beige,Orange
+296,Raddle,Frog,Male,Lazy,A,Nature,6-6,Elegant,Simple,White,Gray
+297,Rasher,Pig,Male,Cranky,B,Music,4-7,Cool,Simple,Blue,Black
+298,Raymond,Cat,Male,Smug,B,Nature,10-1,Elegant,Cool,Black,Gray
+299,Renée,Rhino,Female,Big Sister,A,Music,5-28,Cool,Active,Purple,Yellow
+300,Reneigh,Horse,Female,Big Sister,A,Play,6-4,Cool,Gorgeous,Black,Purple
+301,Rex,Lion,Male,Lazy,A,Nature,7-24,Simple,Cute,Blue,Light blue
+302,Rhonda,Rhino,Female,Normal,B,Music,1-24,Elegant,Gorgeous,Purple,Black
+303,Ribbot,Frog,Male,Jock,B,Fitness,2-13,Simple,Active,Blue,Light blue
+304,Ricky,Squirrel,Male,Cranky,B,Education,9-14,Cool,Simple,Blue,Red
+305,Rizzo,Mouse,Male,Cranky,B,Education,1-17,Simple,Cool,Black,Gray
+306,Roald,Penguin,Male,Jock,B,Fitness,1-5,Active,Simple,Red,Yellow
+307,Robin,Bird,Female,Snooty,B,Fashion,12-4,Elegant,Cool,Light blue,Purple
+308,Rocco,Hippo,Male,Cranky,B,Education,8-18,Simple,Cool,Yellow,Black
+309,Rocket,Gorilla,Female,Big Sister,B,Fitness,4-14,Active,Cool,Pink,Red
+310,Rod,Mouse,Male,Jock,B,Fitness,8-14,Active,Cool,Blue,Light blue
+311,Rodeo,Bull,Male,Lazy,B,Fitness,10-29,Simple,Cool,Black,Red
+312,Rodney,Hamster,Male,Smug,A,Music,11-10,Gorgeous,Cool,Pink,Colorful
+313,Rolf,Tiger,Male,Cranky,B,Fitness,8-22,Cool,Active,Blue,Black
+314,Rooney,Kangaroo,Male,Cranky,A,Fitness,12-1,Active,Active,Gray,Black
+315,Rory,Lion,Male,Jock,A,Music,8-7,Simple,Active,Blue,Red
+316,Roscoe,Horse,Male,Cranky,B,Music,6-16,Cool,Gorgeous,Black,Gray
+317,Rosie,Cat,Female,Peppy,A,Music,2-27,Cute,Cute,Pink,Red
+318,Rowan,Tiger,Male,Jock,B,Fitness,8-26,Active,Simple,Light blue,Gray
+319,Ruby,Rabbit,Female,Peppy,B,Nature,12-25,Cute,Active,Light blue,Pink
+320,Rudy,Cat,Male,Jock,A,Play,12-20,Active,Simple,Yellow,Beige
+321,Sally,Squirrel,Female,Normal,B,Music,6-19,Simple,Elegant,White,Beige
+322,Samson,Mouse,Male,Jock,B,Fitness,7-5,Simple,Active,Red,Yellow
+323,Sandy,Ostrich,Female,Normal,A,Nature,10-21,Simple,Cool,Light blue,White
+324,Savannah,Horse,Female,Normal,B,Music,1-25,Cool,Simple,Light blue,Blue
+325,Scoot,Duck,Male,Jock,B,Fitness,6-13,Active,Simple,Beige,Blue
+326,Shari,Monkey,Female,Big Sister,A,Music,4-10,Cute,Active,Light blue,Yellow
+327,Sheldon,Squirrel,Male,Jock,A,Play,2-26,Active,Cool,Green,Yellow
+328,Shep,Dog,Male,Smug,A,Education,11-24,Simple,Cool,Light blue,Blue
+329,Sherb,Goat,Male,Lazy,A,Nature,1-18,Simple,Cute,Gray,Blue
+330,Simon,Monkey,Male,Lazy,B,Play,1-19,Simple,Active,Red,Colorful
+331,Skye,Wolf,Female,Normal,A,Music,3-24,Cute,Cute,Blue,White
+332,Sly,Alligator,Male,Jock,A,Play,11-15,Cool,Simple,Brown,Green
+333,Snake,Rabbit,Male,Jock,B,Fitness,11-3,Active,Simple,Black,Blue
+334,Snooty,Anteater,Female,Snooty,A,Education,10-24,Simple,Simple,Green,Yellow
+335,Soleil,Hamster,Female,Snooty,A,Education,8-9,Cool,Gorgeous,Red,Yellow
+336,Sparro,Bird,Male,Jock,A,Play,11-20,Active,Simple,Green,Gray
+337,Spike,Rhino,Male,Cranky,A,Nature,6-17,Cool,Gorgeous,Black,Gray
+338,Spork,Pig,Male,Lazy,B,Play,9-3,Simple,Active,Green,Colorful
+339,Sprinkle,Penguin,Female,Peppy,A,Play,2-20,Cute,Elegant,Light blue,White
+340,Sprocket,Ostrich,Male,Jock,A,Music,12-1,Simple,Active,Orange,Green
+341,Static,Squirrel,Male,Cranky,B,Music,7-9,Cool,Active,Black,Yellow
+342,Stella,Sheep,Female,Normal,A,Nature,4-9,Simple,Simple,Yellow,Beige
+343,Sterling,Eagle,Male,Jock,B,Fitness,12-11,Simple,Elegant,Blue,Red
+344,Stinky,Cat,Male,Jock,B,Fitness,8-17,Active,Simple,Red,Blue
+345,Stitches,Cub,Male,Lazy,B,Play,2-10,Simple,Cute,Colorful,White
+346,Stu,Bull,Male,Lazy,A,Nature,4-20,Simple,Simple,Brown,Beige
+347,Sydney,Koala,Female,Normal,B,Music,6-21,Cute,Simple,Beige,Yellow
+348,Sylvana,Squirrel,Female,Normal,A,Nature,10-22,Cute,Simple,Green,Purple
+349,Sylvia,Kangaroo,Female,Big Sister,B,Music,5-3,Simple,Gorgeous,Yellow,Green
+350,T-Bone,Bull,Male,Cranky,B,Education,5-20,Cool,Simple,Blue,Black
+351,Tabby,Cat,Female,Peppy,B,Music,8-13,Active,Cool,Black,Gray
+352,Tad,Frog,Male,Jock,A,Play,8-3,Active,Simple,Yellow,Colorful
+353,Tammi,Monkey,Female,Peppy,B,Fashion,4-2,Cute,Active,Purple,Green
+354,Tammy,Cub,Female,Big Sister,A,Play,6-23,Cool,Active,Red,Purple
+355,Tangy,Cat,Female,Peppy,B,Music,6-17,Simple,Cute,Green,Yellow
+356,Tank,Rhino,Male,Jock,B,Fitness,5-6,Active,Simple,Red,Green
+357,Tasha,Squirrel,Female,Snooty,A,Fitness,11-30,Elegant,Gorgeous,Beige,Gray
+358,Teddy,Bear,Male,Jock,B,Fitness,9-26,Simple,Simple,Yellow,Orange
+359,Tex,Penguin,Male,Smug,A,Music,10-6,Cool,Elegant,Black,Gray
+360,Tia,Elephant,Female,Normal,A,Nature,11-18,Cute,Elegant,Black,White
+361,Tiffany,Rabbit,Female,Snooty,B,Fashion,1-9,Gorgeous,Cool,Black,Red
+362,Timbra,Sheep,Female,Snooty,A,Education,10-21,Elegant,Gorgeous,Green,Brown
+363,Tipper,Cow,Female,Snooty,B,Fashion,8-25,Gorgeous,Cute,Colorful,Pink
+364,Tom,Cat,Male,Cranky,B,Education,12-10,Cool,Simple,Black,Gray
+365,Truffles,Pig,Female,Peppy,B,Fashion,7-28,Cute,Gorgeous,Green,Red
+366,Tucker,Elephant,Male,Lazy,A,Nature,9-7,Active,Simple,Yellow,Orange
+367,Tutu,Bear,Female,Peppy,B,Fashion,9-15,Cute,Simple,Pink,Red
+368,Twiggy,Bird,Female,Peppy,B,Fashion,7-13,Simple,Cute,Pink,Blue
+369,Tybalt,Tiger,Male,Jock,A,Play,8-19,Active,Simple,Blue,Purple
+370,Ursala,Bear,Female,Big Sister,A,Music,1-16,Simple,Cute,Red,Orange
+371,Velma,Goat,Female,Snooty,B,Education,1-14,Elegant,Gorgeous,Light blue,Purple
+372,Vesta,Sheep,Female,Normal,B,Fashion,4-16,Simple,Cute,Orange,Red
+373,Vic,Bull,Male,Cranky,A,Fitness,12-29,Cool,Active,Light blue,Blue
+374,Victoria,Horse,Female,Peppy,B,Fitness,7-11,Active,Simple,Yellow,Orange
+375,Violet,Gorilla,Female,Snooty,B,Fitness,9-1,Gorgeous,Cool,Purple,Pink
+376,Vivian,Wolf,Female,Snooty,A,Education,1-26,Gorgeous,Elegant,Gray,Purple
+377,Vladimir,Cub,Male,Cranky,B,Play,8-2,Simple,Cool,Yellow,Colorful
+378,Wade,Penguin,Male,Lazy,A,Nature,10-30,Simple,Gorgeous,Light blue,Blue
+379,Walker,Dog,Male,Lazy,B,Play,6-10,Simple,Simple,Orange,Red
+380,Walt,Kangaroo,Male,Cranky,A,Fitness,4-24,Cool,Cool,Black,Gray
+381,Wart Jr.,Frog,Male,Cranky,B,Education,8-21,Simple,Simple,Blue,Purple
+382,Weber,Duck,Male,Lazy,A,Nature,6-30,Cool,Simple,Blue,Black
+383,Wendy,Sheep,Female,Peppy,B,Fashion,8-15,Cool,Gorgeous,Red,Green
+384,Whitney,Wolf,Female,Snooty,B,Fashion,9-17,Elegant,Cool,Blue,Light blue
+385,Willow,Sheep,Female,Snooty,B,Fashion,11-26,Cute,Gorgeous,White,Pink
+386,Winnie,Horse,Female,Peppy,B,Fashion,1-31,Cool,Simple,White,Gray
+387,Wolfgang,Wolf,Male,Cranky,B,Education,11-25,Cool,Active,Black,Green
+388,Yuka,Koala,Female,Snooty,B,Fashion,7-20,Cool,Elegant,Orange,Yellow
+389,Zell,Deer,Male,Smug,A,Music,6-7,Cool,Gorgeous,Purple,Gray
+390,Zucker,Octopus,Male,Lazy,A,Nature,3-8,Simple,Cute,Blue,Yellow
