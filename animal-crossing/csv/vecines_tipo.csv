@@ -1,4 +1,4 @@
-,Name,Species,Gender,Personality,Subtype,Hobby,Birthday,Style 1,Style 2,Color 1,Color 2,Type
+ID,Name,Species,Gender,Personality,Subtype,Hobby,Birthday,Style 1,Style 2,Color 1,Color 2,Type
 0,Admiral,Bird,Male,Cranky,A,Nature,1-27,Cool,Cool,Black,Blue,Bird
 1,Agent S,Squirrel,Female,Peppy,B,Fitness,7-2,Active,Simple,Blue,Black,Mammal
 2,Agnes,Pig,Female,Big Sister,A,Play,4-21,Simple,Elegant,Pink,White,Mammal

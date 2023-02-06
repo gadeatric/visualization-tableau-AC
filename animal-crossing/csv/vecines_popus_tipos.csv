@@ -1,0 +1,392 @@
+,ID,Species,Gender,Personality,Subtype,Hobby,Birthday,Style 1,Style 2,Color 1,Color 2,Type,tier,rank,rank_overall
+Raymond,298,Cat,Male,Smug,B,Nature,10-1,Elegant,Cool,Black,Gray,Mammal,1,1,1
+Marshal,228,Squirrel,Male,Smug,A,Music,9-29,Elegant,Cool,Light blue,Blue,Mammal,1,2,2
+Sherb,329,Goat,Male,Lazy,A,Nature,1-18,Simple,Cute,Gray,Blue,Mammal,1,4,3
+Ankha,12,Cat,Female,Snooty,B,Nature,9-22,Gorgeous,Simple,Colorful,Brown,Mammal,1,7,4
+Zucker,390,Octopus,Male,Lazy,A,Nature,3-8,Simple,Cute,Blue,Yellow,Amphibian,1,8,5
+Stitches,345,Cub,Male,Lazy,B,Play,2-10,Simple,Cute,Colorful,White,Mammal,1,9,6
+Merengue,232,Rhino,Female,Normal,A,Nature,3-19,Cute,Simple,White,Red,Mammal,1,10,7
+Marina,227,Octopus,Female,Normal,B,Music,6-26,Cute,Cute,Pink,Red,Amphibian,1,11,8
+Judy,186,Cub,Female,Snooty,A,Music,3-10,Cute,Elegant,Pink,White,Mammal,1,12,9
+Beau,30,Deer,Male,Lazy,A,Nature,4-5,Simple,Cute,Beige,Orange,Mammal,1,13,10
+Coco,92,Rabbit,Female,Normal,B,Education,3-1,Simple,Cute,Beige,Green,Mammal,1,14,11
+Maple,223,Cub,Female,Normal,B,Education,6-15,Simple,Cute,Beige,Green,Mammal,1,15,12
+Fauna,133,Deer,Female,Normal,A,Nature,3-26,Simple,Cute,Beige,White,Mammal,2,1,13
+Audie,19,Wolf,Female,Peppy,A,Fitness,8-31,Cute,Active,Green,White,Mammal,2,2,14
+Molly,240,Duck,Female,Normal,A,Nature,3-7,Cute,Simple,Yellow,Pink,Bird,2,3,15
+Bob,47,Cat,Male,Lazy,B,Play,1-1,Simple,Cute,Colorful,Red,Mammal,2,4,16
+Lolly,211,Cat,Female,Normal,B,Music,3-27,Simple,Simple,Gray,Pink,Mammal,2,5,17
+Erik,129,Deer,Male,Lazy,A,Nature,7-27,Simple,Simple,Beige,Red,Mammal,2,6,18
+Lucky,215,Dog,Male,Lazy,B,Play,11-4,Simple,Simple,Beige,White,Mammal,2,7,19
+Diana,111,Deer,Female,Snooty,A,Education,1-4,Elegant,Gorgeous,Purple,Pink,Mammal,2,8,20
+Dom,116,Sheep,Male,Jock,A,Play,3-18,Active,Cute,Red,Colorful,Mammal,2,9,21
+Ketchup,194,Duck,Female,Peppy,A,Play,7-27,Cute,Cute,Light blue,White,Bird,2,10,22
+Rosie,317,Cat,Female,Peppy,A,Music,2-27,Cute,Cute,Pink,Red,Mammal,2,12,23
+Lily,207,Frog,Female,Normal,B,Education,2-4,Cute,Simple,White,Yellow,Amphibian,2,13,24
+Julian,188,Horse,Male,Smug,A,Music,3-15,Gorgeous,Cool,Purple,Blue,Mammal,2,14,25
+Tangy,355,Cat,Female,Peppy,B,Music,6-17,Simple,Cute,Green,Yellow,Mammal,2,15,26
+Punchy,292,Cat,Male,Lazy,B,Play,4-11,Simple,Simple,Blue,Light blue,Mammal,2,16,27
+Cherry,78,Dog,Female,Big Sister,A,Music,5-11,Cool,Elegant,Black,Purple,Mammal,2,17,28
+Fang,132,Wolf,Male,Cranky,B,Education,12-18,Simple,Cool,White,Light blue,Mammal,2,18,29
+Kiki,198,Cat,Female,Normal,B,Education,10-8,Simple,Simple,Brown,Beige,Mammal,2,19,30
+Apollo,16,Eagle,Male,Cranky,B,Music,7-4,Cool,Simple,Black,Black,Bird,2,20,31
+Poppy,286,Squirrel,Female,Normal,B,Education,8-5,Cute,Elegant,Green,Yellow,Mammal,2,21,32
+Roald,306,Penguin,Male,Jock,B,Fitness,1-5,Active,Simple,Red,Yellow,Bird,2,22,33
+Bluebear,46,Cub,Female,Peppy,B,Fashion,6-24,Cute,Simple,White,Blue,Mammal,2,23,34
+Pietro,279,Sheep,Male,Smug,A,Music,4-19,Gorgeous,Simple,Colorful,Red,Mammal,2,24,35
+Flora,138,Ostrich,Female,Peppy,A,Play,2-9,Cute,Active,Colorful,Pink,Bird,2,25,36
+Apple,17,Hamster,Female,Peppy,A,Play,9-24,Cute,Simple,Colorful,Red,Mammal,3,1,37
+Filbert,135,Squirrel,Male,Lazy,A,Nature,6-3,Simple,Cute,Blue,White,Mammal,3,2,38
+Octavian,254,Octopus,Male,Cranky,B,Play,9-20,Cool,Simple,Black,White,Amphibian,3,3,39
+Tia,360,Elephant,Female,Normal,A,Nature,11-18,Cute,Elegant,Black,White,Mammal,3,4,40
+Whitney,384,Wolf,Female,Snooty,B,Fashion,9-17,Elegant,Cool,Blue,Light blue,Mammal,3,5,41
+Pashmina,264,Goat,Female,Big Sister,A,Music,12-26,Cool,Elegant,Red,Colorful,Mammal,3,6,42
+Skye,331,Wolf,Female,Normal,A,Music,3-24,Cute,Cute,Blue,White,Mammal,3,7,43
+Ruby,319,Rabbit,Female,Peppy,B,Nature,12-25,Cute,Active,Light blue,Pink,Mammal,3,8,44
+Reneigh,300,Horse,Female,Big Sister,A,Play,6-4,Cool,Gorgeous,Black,Purple,Mammal,3,9,45
+Merry,233,Cat,Female,Peppy,B,Fashion,6-29,Cute,Cute,Pink,Light blue,Mammal,3,10,46
+Kabuki,190,Cat,Male,Cranky,B,Music,11-29,Simple,Simple,Purple,Red,Mammal,3,11,47
+Genji,152,Rabbit,Male,Jock,B,Fitness,1-21,Elegant,Simple,Green,Purple,Mammal,3,12,48
+Flurry,139,Hamster,Female,Normal,A,Nature,1-30,Elegant,Cute,Red,Pink,Mammal,3,13,49
+Dobie,114,Wolf,Male,Cranky,A,Nature,2-17,Simple,Cool,Brown,Beige,Mammal,3,14,50
+Wolfgang,387,Wolf,Male,Cranky,B,Education,11-25,Cool,Active,Black,Green,Mammal,3,15,51
+Goldie,156,Dog,Female,Normal,B,Nature,12-27,Simple,Cute,Yellow,Orange,Mammal,3,16,52
+Bam,25,Deer,Male,Jock,A,Play,11-7,Active,Simple,Green,Brown,Mammal,3,17,53
+Deirdre,107,Deer,Female,Big Sister,A,Play,5-4,Simple,Simple,Orange,Orange,Mammal,3,19,54
+Cookie,95,Dog,Female,Peppy,B,Fashion,6-18,Cute,Cute,Green,Light blue,Mammal,3,20,55
+Henry,170,Frog,Male,Smug,A,Music,9-21,Cool,Simple,Light blue,Blue,Amphibian,3,21,56
+Clay,87,Hamster,Male,Lazy,A,Nature,10-19,Elegant,Simple,Beige,Brown,Mammal,3,22,57
+Hazel,169,Squirrel,Female,Big Sister,A,Play,8-30,Active,Cute,Red,Yellow,Mammal,3,23,58
+Melba,231,Koala,Female,Normal,B,Education,4-12,Cute,Cute,White,Green,Mammal,3,24,59
+Chevre,80,Goat,Female,Normal,B,Education,3-6,Cute,Elegant,Red,Pink,Mammal,3,25,60
+Katt,191,Cat,Female,Big Sister,A,Music,4-27,Cool,Cool,Purple,Black,Mammal,3,26,61
+Kid Cat,196,Cat,Male,Jock,B,Fitness,8-1,Active,Simple,Red,Red,Mammal,3,27,62
+Daisy,105,Dog,Female,Normal,B,Education,11-16,Simple,Cute,Colorful,Blue,Mammal,3,28,63
+Pekoe,274,Cub,Female,Normal,B,Nature,5-18,Elegant,Cute,Red,Beige,Mammal,3,29,64
+Zell,389,Deer,Male,Smug,A,Music,6-7,Cool,Gorgeous,Purple,Gray,Mammal,3,30,65
+Sprinkle,339,Penguin,Female,Peppy,A,Play,2-20,Cute,Elegant,Light blue,White,Bird,4,1,66
+Chrissy,84,Rabbit,Female,Peppy,B,Fashion,8-28,Cute,Cute,Pink,White,Mammal,4,2,67
+Hornsby,174,Rhino,Male,Lazy,A,Nature,3-20,Simple,Simple,Green,Brown,Mammal,4,3,68
+Drago,119,Alligator,Male,Lazy,A,Nature,2-12,Elegant,Gorgeous,Orange,Red,Amphibian,4,4,69
+Aurora,20,Penguin,Female,Normal,B,Education,1-27,Cute,Elegant,Pink,Red,Bird,4,5,70
+Muffy,245,Sheep,Female,Big Sister,A,Music,2-14,Gorgeous,Elegant,Black,Purple,Mammal,4,6,71
+Static,341,Squirrel,Male,Cranky,B,Music,7-9,Cool,Active,Black,Yellow,Mammal,4,7,72
+Phoebe,277,Ostrich,Female,Big Sister,A,Fitness,4-22,Gorgeous,Cool,Black,Red,Bird,4,8,73
+Bianca,37,Tiger,Female,Peppy,A,Play,12-13,Cute,Cute,Pink,Orange,Mammal,4,9,74
+Cheri,77,Cub,Female,Peppy,B,Fashion,3-17,Simple,Cute,Yellow,Light blue,Mammal,4,10,75
+Kyle,204,Wolf,Male,Smug,A,Music,12-6,Gorgeous,Cool,Black,White,Mammal,4,11,76
+Bea,28,Dog,Female,Normal,A,Nature,10-15,Simple,Cool,Light blue,Green,Mammal,4,12,77
+Cube,99,Penguin,Male,Lazy,B,Play,1-29,Simple,Cute,Yellow,Colorful,Bird,4,13,78
+Alice,5,Koala,Female,Normal,B,Education,8-19,Cute,Cute,Red,Pink,Mammal,4,14,79
+Sylvana,348,Squirrel,Female,Normal,A,Nature,10-22,Cute,Simple,Green,Purple,Mammal,4,16,80
+Tom,364,Cat,Male,Cranky,B,Education,12-10,Cool,Simple,Black,Gray,Mammal,4,17,81
+Nan,247,Goat,Female,Normal,B,Nature,8-24,Simple,Elegant,Orange,Yellow,Mammal,4,18,82
+Jeremiah,183,Frog,Male,Lazy,B,Play,7-8,Simple,Simple,Orange,Yellow,Amphibian,4,19,83
+Rex,301,Lion,Male,Lazy,A,Nature,7-24,Simple,Cute,Blue,Light blue,Mammal,4,20,84
+Francine,140,Rabbit,Female,Snooty,B,Fashion,1-22,Elegant,Gorgeous,Blue,Black,Mammal,4,21,85
+Hamlet,165,Hamster,Male,Jock,A,Play,5-30,Simple,Active,Purple,Blue,Mammal,4,22,86
+Dizzy,113,Elephant,Male,Lazy,B,Play,7-14,Simple,Simple,Yellow,Blue,Mammal,4,23,87
+Purrl,293,Cat,Female,Snooty,B,Fashion,5-29,Cool,Elegant,Gray,Blue,Mammal,4,24,88
+Bill,40,Duck,Male,Jock,A,Play,2-1,Active,Active,Blue,Purple,Bird,4,25,89
+Agnes,2,Pig,Female,Big Sister,A,Play,4-21,Simple,Elegant,Pink,White,Mammal,4,26,90
+Olivia,257,Cat,Female,Snooty,B,Music,2-3,Cool,Elegant,White,Black,Mammal,4,27,91
+Shep,328,Dog,Male,Smug,A,Education,11-24,Simple,Cool,Light blue,Blue,Mammal,4,28,92
+Mitzi,238,Cat,Female,Normal,B,Education,9-25,Simple,Simple,Brown,Beige,Mammal,4,29,93
+Bunnie,62,Rabbit,Female,Peppy,B,Fashion,5-9,Cute,Cute,Green,Pink,Mammal,4,30,94
+Fuchsia,147,Deer,Female,Big Sister,A,Music,9-19,Cool,Cool,Pink,Pink,Mammal,4,31,95
+Bruce,58,Deer,Male,Cranky,A,Nature,5-26,Cool,Simple,Black,Red,Mammal,4,32,96
+Tutu,367,Bear,Female,Peppy,B,Fashion,9-15,Cute,Simple,Pink,Red,Mammal,4,33,97
+Bangle,26,Tiger,Female,Peppy,B,Fashion,8-27,Gorgeous,Cute,Yellow,Green,Mammal,4,34,98
+Lopez,212,Deer,Male,Smug,A,Education,8-20,Gorgeous,Gorgeous,Gray,Gray,Mammal,4,35,99
+Bones,49,Dog,Male,Lazy,B,Play,8-4,Simple,Cute,Beige,Brown,Mammal,4,37,100
+Peanut,269,Squirrel,Female,Peppy,B,Fashion,6-8,Cute,Cute,Red,Colorful,Mammal,4,38,101
+Eugene,130,Koala,Male,Smug,A,Music,10-26,Cool,Gorgeous,Black,Gray,Mammal,4,40,102
+Kidd,197,Goat,Male,Smug,B,Education,6-28,Elegant,Cool,Gray,White,Mammal,4,41,103
+Biskit,42,Dog,Male,Lazy,B,Play,5-13,Gorgeous,Simple,Purple,Colorful,Mammal,4,42,104
+Freckles,142,Duck,Female,Peppy,B,Fashion,2-19,Simple,Cute,Green,Colorful,Bird,4,43,105
+Tammy,354,Cub,Female,Big Sister,A,Play,6-23,Cool,Active,Red,Purple,Mammal,4,44,106
+Roscoe,316,Horse,Male,Cranky,B,Music,6-16,Cool,Gorgeous,Black,Gray,Mammal,4,46,107
+Tasha,357,Squirrel,Female,Snooty,A,Fitness,11-30,Elegant,Gorgeous,Beige,Gray,Mammal,4,48,108
+Beardo,29,Bear,Male,Smug,A,Education,9-27,Elegant,Elegant,Brown,Blue,Mammal,4,49,109
+Gayle,151,Alligator,Female,Normal,A,Nature,5-17,Cute,Cute,Pink,White,Amphibian,4,50,110
+Teddy,358,Bear,Male,Jock,B,Fitness,9-26,Simple,Simple,Yellow,Orange,Mammal,4,51,111
+Ellie,125,Elephant,Female,Normal,A,Nature,5-12,Simple,Cute,Gray,Pink,Mammal,4,52,112
+Julia,187,Ostrich,Female,Snooty,A,Education,7-31,Elegant,Gorgeous,Purple,Red,Bird,4,53,113
+Bella,32,Mouse,Female,Peppy,B,Music,12-28,Cool,Active,Black,Purple,Mammal,4,54,114
+Lobo,210,Wolf,Male,Cranky,B,Education,11-5,Cool,Active,Black,Beige,Mammal,4,55,115
+Shari,326,Monkey,Female,Big Sister,A,Music,4-10,Cute,Active,Light blue,Yellow,Mammal,4,56,116
+Lyman,217,Koala,Male,Jock,A,Play,10-12,Simple,Active,Light blue,Yellow,Mammal,4,57,117
+Freya,143,Wolf,Female,Snooty,B,Fashion,12-14,Elegant,Cool,Green,Blue,Mammal,4,58,118
+Wade,378,Penguin,Male,Lazy,A,Nature,10-30,Simple,Gorgeous,Light blue,Blue,Bird,4,59,119
+Scoot,325,Duck,Male,Jock,B,Fitness,6-13,Active,Simple,Beige,Blue,Bird,4,60,120
+Antonio,15,Anteater,Male,Jock,B,Fitness,10-20,Simple,Simple,Light blue,Blue,Mammal,5,1,121
+Olive,256,Cub,Female,Normal,A,Nature,7-12,Simple,Simple,Brown,Yellow,Mammal,5,2,122
+Vivian,376,Wolf,Female,Snooty,A,Education,1-26,Gorgeous,Elegant,Gray,Purple,Mammal,5,3,123
+Dotty,118,Rabbit,Female,Peppy,B,Fashion,3-14,Simple,Cute,Blue,Black,Mammal,5,4,124
+Puddles,290,Frog,Female,Peppy,B,Fashion,1-13,Cute,Gorgeous,Green,Pink,Amphibian,5,5,125
+Blaire,44,Squirrel,Female,Snooty,B,Fashion,7-3,Gorgeous,Elegant,Orange,Brown,Mammal,5,6,126
+Ribbot,303,Frog,Male,Jock,B,Fitness,2-13,Simple,Active,Blue,Light blue,Amphibian,5,7,127
+Megan,230,Bear,Female,Normal,A,Nature,3-13,Cute,Simple,Yellow,Light blue,Mammal,5,8,128
+Maddie,219,Dog,Female,Peppy,A,Play,1-11,Simple,Cute,Purple,Pink,Mammal,5,9,129
+Deli,109,Monkey,Male,Lazy,A,Nature,5-24,Gorgeous,Elegant,Purple,Brown,Mammal,5,10,130
+Margie,226,Elephant,Female,Normal,B,Education,1-28,Elegant,Cute,Pink,Red,Mammal,5,11,131
+Egbert,123,Chicken,Male,Lazy,B,Play,10-14,Simple,Simple,Beige,Brown,Bird,5,12,132
+Norma,252,Cow,Female,Normal,A,Nature,9-20,Cute,Simple,White,Light blue,Mammal,5,13,133
+Elvis,128,Lion,Male,Cranky,B,Education,7-23,Gorgeous,Elegant,Red,Black,Mammal,5,14,134
+Annalisa,13,Anteater,Female,Normal,A,Nature,2-6,Elegant,Gorgeous,Red,Pink,Mammal,5,15,135
+Felicity,134,Cat,Female,Peppy,B,Fashion,3-30,Cute,Cute,Yellow,Orange,Mammal,5,16,136
+Papi,263,Horse,Male,Lazy,A,Nature,1-10,Simple,Simple,Orange,Light blue,Mammal,5,18,137
+Canberra,67,Koala,Female,Big Sister,A,Play,5-14,Active,Cool,Green,Light blue,Mammal,5,19,138
+Chief,81,Wolf,Male,Cranky,B,Music,12-19,Cool,Simple,White,Gray,Mammal,5,20,139
+Sprocket,340,Ostrich,Male,Jock,A,Music,12-1,Simple,Active,Orange,Green,Bird,5,21,140
+Snake,333,Rabbit,Male,Jock,B,Fitness,11-3,Active,Simple,Black,Blue,Mammal,5,22,141
+Flo,137,Penguin,Female,Big Sister,A,Music,9-2,Cool,Gorgeous,Red,Purple,Bird,5,23,142
+Gladys,154,Ostrich,Female,Normal,B,Education,1-15,Elegant,Cute,Green,Pink,Bird,5,24,143
+Twiggy,368,Bird,Female,Peppy,B,Fashion,7-13,Simple,Cute,Pink,Blue,Bird,5,25,144
+Mint,235,Squirrel,Female,Snooty,B,Fashion,5-2,Gorgeous,Cute,Pink,Purple,Mammal,5,26,145
+Tex,359,Penguin,Male,Smug,A,Music,10-6,Cool,Elegant,Black,Gray,Bird,5,27,146
+Goose,158,Chicken,Male,Jock,B,Fitness,10-4,Simple,Active,Blue,White,Bird,5,28,147
+Stella,342,Sheep,Female,Normal,A,Nature,4-9,Simple,Simple,Yellow,Beige,Mammal,5,30,148
+Gonzo,157,Koala,Male,Cranky,A,Nature,10-13,Simple,Cool,Black,Green,Mammal,5,31,149
+Wendy,383,Sheep,Female,Peppy,B,Fashion,8-15,Cool,Gorgeous,Red,Green,Mammal,5,32,150
+Cyd,103,Elephant,Male,Cranky,A,Music,6-9,Cool,Active,Black,Yellow,Mammal,5,33,151
+Diva,112,Frog,Female,Big Sister,A,Fitness,10-2,Gorgeous,Elegant,Purple,Light blue,Amphibian,5,34,152
+Caroline,70,Squirrel,Female,Normal,B,Music,7-15,Cute,Gorgeous,Colorful,White,Mammal,5,35,153
+Mira,236,Rabbit,Female,Big Sister,A,Fitness,7-6,Active,Cool,Red,Yellow,Mammal,5,36,154
+Biff,38,Hippo,Male,Jock,B,Fitness,3-29,Gorgeous,Active,Black,Blue,Mammal,5,37,155
+Avery,22,Eagle,Male,Cranky,B,Music,2-22,Simple,Gorgeous,Orange,Brown,Bird,5,38,156
+Nana,248,Monkey,Female,Normal,B,Education,8-23,Cute,Cute,Pink,White,Mammal,5,39,157
+Patty,266,Cow,Female,Peppy,B,Fashion,5-10,Simple,Cute,Orange,Red,Mammal,5,40,158
+Rudy,320,Cat,Male,Jock,A,Play,12-20,Active,Simple,Yellow,Beige,Mammal,5,42,159
+Ozzie,259,Koala,Male,Lazy,B,Play,5-7,Simple,Cute,Yellow,Orange,Mammal,5,43,160
+June,189,Cub,Female,Normal,A,Nature,5-21,Cute,Simple,White,Red,Mammal,5,44,161
+Carmen,69,Rabbit,Female,Peppy,B,Fashion,1-6,Elegant,Cute,Green,Beige,Mammal,5,45,162
+Celia,73,Eagle,Female,Normal,A,Nature,3-25,Elegant,Cute,Pink,Green,Bird,5,46,163
+Joey,185,Duck,Male,Lazy,B,Play,1-3,Simple,Simple,Green,Blue,Bird,5,47,164
+Pinky,280,Bear,Female,Peppy,B,Fashion,9-9,Cute,Simple,Red,Pink,Mammal,5,48,165
+Pecan,270,Squirrel,Female,Snooty,B,Fashion,9-10,Elegant,Gorgeous,Purple,Beige,Mammal,5,49,166
+Chadder,75,Mouse,Male,Smug,A,Fitness,12-15,Elegant,Gorgeous,Black,Gray,Mammal,5,50,167
+Blanche,45,Ostrich,Female,Snooty,A,Nature,12-21,Elegant,Gorgeous,Black,Brown,Bird,5,51,168
+Tabby,351,Cat,Female,Peppy,B,Music,8-13,Active,Cool,Black,Gray,Mammal,5,52,169
+Cole,93,Rabbit,Male,Lazy,A,Nature,8-10,Simple,Cute,Orange,Colorful,Mammal,5,53,170
+Boomer,50,Penguin,Male,Lazy,B,Fitness,2-7,Simple,Cool,Brown,Beige,Bird,5,54,171
+Graham,159,Hamster,Male,Smug,A,Education,6-20,Simple,Cool,Green,Orange,Mammal,5,55,172
+Boots,52,Alligator,Male,Jock,A,Play,8-7,Gorgeous,Active,Colorful,Purple,Amphibian,5,56,173
+Murphy,246,Cub,Male,Cranky,A,Education,12-29,Simple,Cool,Blue,White,Mammal,5,57,174
+Bubbles,59,Hippo,Female,Peppy,B,Fashion,9-18,Active,Cute,Purple,Pink,Mammal,5,58,175
+Drift,121,Frog,Male,Jock,B,Fitness,10-9,Simple,Active,Orange,Red,Amphibian,5,59,176
+Frita,145,Sheep,Female,Big Sister,A,Music,7-16,Active,Cute,Yellow,Red,Mammal,5,60,177
+Moe,239,Cat,Male,Lazy,B,Play,1-12,Active,Simple,Black,Gray,Mammal,5,61,178
+Poncho,285,Cub,Male,Jock,B,Fitness,1-2,Simple,Simple,Orange,Yellow,Mammal,5,62,179
+Camofrog,66,Frog,Male,Cranky,B,Music,6-5,Cool,Active,Blue,White,Amphibian,5,63,180
+Tiffany,361,Rabbit,Female,Snooty,B,Fashion,1-9,Gorgeous,Cool,Black,Red,Mammal,5,64,181
+Hamphrey,166,Hamster,Male,Cranky,A,Nature,2-25,Cool,Simple,Gray,Beige,Mammal,5,65,182
+Savannah,324,Horse,Female,Normal,B,Music,1-25,Cool,Simple,Light blue,Blue,Mammal,5,66,183
+Pate,265,Duck,Female,Peppy,B,Fashion,2-23,Simple,Cute,Yellow,White,Bird,5,67,184
+Tipper,363,Cow,Female,Snooty,B,Fashion,8-25,Gorgeous,Cute,Colorful,Pink,Mammal,5,68,185
+Doc,115,Rabbit,Male,Lazy,B,Education,3-16,Simple,Elegant,Gray,Beige,Mammal,5,69,186
+Sydney,347,Koala,Female,Normal,B,Music,6-21,Cute,Simple,Beige,Yellow,Mammal,5,70,187
+Derwin,110,Duck,Male,Lazy,B,Play,5-25,Simple,Elegant,Yellow,Beige,Bird,5,71,188
+Tank,356,Rhino,Male,Jock,B,Fitness,5-6,Active,Simple,Red,Green,Mammal,5,72,189
+Wart Jr.,381,Frog,Male,Cranky,B,Education,8-21,Simple,Simple,Blue,Purple,Amphibian,5,73,190
+Flip,136,Monkey,Male,Jock,A,Music,11-21,Active,Simple,Blue,Yellow,Mammal,5,74,191
+Eloise,127,Elephant,Female,Snooty,B,Fashion,12-8,Elegant,Simple,Green,Orange,Mammal,5,75,192
+Cranston,97,Ostrich,Male,Lazy,A,Nature,9-23,Simple,Cool,Beige,Brown,Bird,5,76,193
+Portia,287,Dog,Female,Snooty,B,Fashion,10-25,Elegant,Gorgeous,Purple,Black,Mammal,5,77,194
+Plucky,283,Chicken,Female,Big Sister,A,Play,10-12,Cool,Simple,Light blue,Yellow,Bird,5,78,195
+Vesta,372,Sheep,Female,Normal,B,Fashion,4-16,Simple,Cute,Orange,Red,Mammal,5,79,196
+Mac,218,Dog,Male,Jock,B,Fitness,11-11,Active,Cool,Red,Black,Mammal,5,80,197
+Eunice,131,Sheep,Female,Normal,B,Fashion,4-3,Simple,Elegant,Beige,Orange,Mammal,5,81,198
+Walker,379,Dog,Male,Lazy,B,Play,6-10,Simple,Simple,Orange,Red,Mammal,5,82,199
+Olaf,255,Anteater,Male,Smug,A,Education,5-19,Elegant,Gorgeous,Red,Black,Mammal,5,84,200
+Nate,250,Bear,Male,Lazy,B,Play,8-16,Simple,Simple,White,Green,Mammal,5,85,201
+Winnie,386,Horse,Female,Peppy,B,Fashion,1-31,Cool,Simple,White,Gray,Mammal,5,86,202
+Buck,60,Horse,Male,Jock,B,Fitness,4-4,Active,Simple,Gray,Brown,Mammal,5,87,203
+Stu,346,Bull,Male,Lazy,A,Nature,4-20,Simple,Simple,Brown,Beige,Mammal,5,88,204
+Sally,321,Squirrel,Female,Normal,B,Music,6-19,Simple,Elegant,White,Beige,Mammal,5,89,205
+Barold,27,Cub,Male,Lazy,A,Play,3-2,Simple,Cool,Yellow,Black,Mammal,5,90,206
+Hopkins,172,Rabbit,Male,Lazy,A,Nature,3-11,Simple,Active,Blue,Yellow,Mammal,5,91,207
+Rod,310,Mouse,Male,Jock,B,Fitness,8-14,Active,Cool,Blue,Light blue,Mammal,5,92,208
+Renée,299,Rhino,Female,Big Sister,A,Music,5-28,Cool,Active,Purple,Yellow,Mammal,5,93,209
+Tammi,353,Monkey,Female,Peppy,B,Fashion,4-2,Cute,Active,Purple,Green,Mammal,5,94,210
+Astrid,18,Kangaroo,Female,Snooty,B,Music,9-8,Cool,Active,Black,Colorful,Mammal,5,96,211
+Raddle,296,Frog,Male,Lazy,A,Nature,6-6,Elegant,Simple,White,Gray,Amphibian,5,98,212
+Walt,380,Kangaroo,Male,Cranky,A,Fitness,4-24,Cool,Cool,Black,Gray,Mammal,5,99,213
+Gala,149,Pig,Female,Normal,B,Education,3-5,Cute,Elegant,Pink,White,Mammal,5,101,214
+Sterling,343,Eagle,Male,Jock,B,Fitness,12-11,Simple,Elegant,Blue,Red,Bird,5,102,215
+Yuka,388,Koala,Female,Snooty,B,Fashion,7-20,Cool,Elegant,Orange,Yellow,Mammal,5,103,216
+Bree,55,Mouse,Female,Snooty,B,Fashion,7-7,Elegant,Gorgeous,Black,Blue,Mammal,5,104,217
+Hopper,173,Penguin,Male,Cranky,B,Music,4-6,Cool,Simple,Yellow,Red,Bird,5,105,218
+Rodeo,311,Bull,Male,Lazy,B,Fitness,10-29,Simple,Cool,Black,Red,Mammal,5,106,219
+Anchovy,9,Bird,Male,Lazy,B,Play,3-4,Simple,Simple,Colorful,Orange,Bird,5,107,220
+Hans,167,Gorilla,Male,Smug,A,Fitness,12-5,Elegant,Gorgeous,Gray,Blue,Mammal,5,108,221
+Pippy,282,Rabbit,Female,Peppy,B,Fashion,6-14,Cute,Simple,Green,Brown,Mammal,5,109,222
+Knox,202,Chicken,Male,Cranky,B,Education,11-23,Elegant,Gorgeous,Brown,Red,Bird,5,110,223
+Spike,337,Rhino,Male,Cranky,A,Nature,6-17,Cool,Gorgeous,Black,Gray,Mammal,5,111,224
+Tybalt,369,Tiger,Male,Jock,A,Play,8-19,Active,Simple,Blue,Purple,Mammal,5,112,225
+Sylvia,349,Kangaroo,Female,Big Sister,B,Music,5-3,Simple,Gorgeous,Yellow,Green,Mammal,5,113,226
+Cally,65,Squirrel,Female,Normal,B,Nature,9-4,Cute,Elegant,Red,Green,Mammal,5,114,227
+Kitty,200,Cat,Female,Snooty,B,Fashion,2-15,Elegant,Gorgeous,Green,Gray,Mammal,5,115,228
+Gabi,148,Rabbit,Female,Peppy,B,Fashion,12-16,Cute,Gorgeous,Brown,Red,Mammal,5,116,229
+Jambette,181,Frog,Female,Normal,B,Fashion,10-27,Cool,Cool,Brown,Brown,Amphibian,5,117,230
+Jitters,184,Bird,Male,Jock,B,Fitness,2-2,Active,Active,Yellow,Orange,Bird,5,118,231
+Claudia,86,Tiger,Female,Snooty,A,Music,11-22,Gorgeous,Elegant,Purple,White,Mammal,5,119,232
+Greta,160,Mouse,Female,Snooty,A,Education,9-5,Elegant,Simple,Pink,Purple,Mammal,5,120,233
+Simon,330,Monkey,Male,Lazy,B,Play,1-19,Simple,Active,Red,Colorful,Mammal,6,1,234
+Rhonda,302,Rhino,Female,Normal,B,Music,1-24,Elegant,Gorgeous,Purple,Black,Mammal,6,2,235
+Peewee,272,Gorilla,Male,Cranky,B,Fitness,9-11,Active,Cool,Orange,Blue,Mammal,6,3,236
+Anabelle,8,Anteater,Female,Peppy,B,Fashion,2-16,Cute,Simple,Green,Blue,Mammal,6,4,237
+Broccolo,56,Mouse,Male,Lazy,B,Play,6-30,Simple,Cute,Colorful,Yellow,Mammal,6,5,238
+Alfonso,4,Alligator,Male,Lazy,B,Play,6-9,Simple,Simple,Red,Blue,Amphibian,6,6,239
+Mathilda,229,Kangaroo,Female,Snooty,B,Fitness,11-12,Cool,Gorgeous,White,Red,Mammal,6,7,240
+Piper,281,Bird,Female,Peppy,A,Play,4-18,Elegant,Gorgeous,Black,White,Bird,6,8,241
+Billy,41,Goat,Male,Jock,A,Play,3-25,Simple,Active,Blue,Purple,Mammal,6,9,242
+Leopold,206,Lion,Male,Smug,A,Education,8-14,Elegant,Gorgeous,Purple,Green,Mammal,6,10,243
+Butch,63,Dog,Male,Cranky,B,Music,11-1,Cool,Simple,Blue,Gray,Mammal,6,11,244
+Rodney,312,Hamster,Male,Smug,A,Music,11-10,Gorgeous,Cool,Pink,Colorful,Mammal,6,13,245
+Weber,382,Duck,Male,Lazy,A,Nature,6-30,Cool,Simple,Blue,Black,Bird,6,14,246
+Lionel,209,Lion,Male,Smug,A,Music,7-29,Gorgeous,Active,Green,Gray,Mammal,6,15,247
+Hippeux,171,Hippo,Male,Smug,A,Education,10-15,Elegant,Gorgeous,Brown,Green,Mammal,6,16,248
+Nibbles,251,Squirrel,Female,Peppy,B,Fashion,7-19,Cute,Active,Red,Yellow,Mammal,6,17,249
+Pudge,291,Cub,Male,Lazy,B,Play,6-11,Simple,Simple,Green,Blue,Mammal,6,18,250
+Al,3,Gorilla,Male,Lazy,B,Fitness,10-18,Active,Active,Red,White,Mammal,6,19,251
+Phil,276,Ostrich,Male,Smug,A,Music,11-27,Elegant,Cool,Green,Red,Bird,6,20,252
+Jacques,180,Bird,Male,Smug,A,Music,6-22,Cool,Simple,Green,Black,Bird,6,21,253
+Prince,288,Frog,Male,Lazy,B,Play,7-21,Simple,Active,Yellow,White,Amphibian,6,22,254
+Midge,234,Bird,Female,Normal,B,Education,3-12,Cute,Simple,Pink,Pink,Bird,6,23,255
+Bonbon,48,Rabbit,Female,Peppy,A,Play,3-3,Cute,Elegant,Light blue,Yellow,Mammal,6,24,256
+Pango,261,Anteater,Female,Peppy,B,Fashion,11-9,Elegant,Cool,Orange,Purple,Mammal,6,25,257
+Huck,175,Frog,Male,Smug,A,Fitness,7-9,Simple,Cool,Green,Yellow,Amphibian,6,26,258
+Chow,83,Bear,Male,Cranky,B,Fitness,7-22,Cool,Gorgeous,Black,White,Mammal,6,27,259
+Rasher,297,Pig,Male,Cranky,B,Music,4-7,Cool,Simple,Blue,Black,Mammal,6,28,260
+Angus,10,Bull,Male,Cranky,B,Fitness,4-30,Cool,Cool,Red,Black,Mammal,6,29,261
+Becky,31,Chicken,Female,Snooty,B,Music,12-9,Gorgeous,Elegant,Purple,Pink,Bird,6,30,262
+Jay,182,Bird,Male,Jock,B,Fitness,7-17,Active,Active,Blue,Light blue,Bird,6,31,263
+Tucker,366,Elephant,Male,Lazy,A,Nature,9-7,Active,Simple,Yellow,Orange,Mammal,6,32,264
+Maggie,221,Pig,Female,Normal,A,Nature,9-3,Cute,Elegant,Green,Yellow,Mammal,6,33,265
+Coach,90,Bull,Male,Jock,A,Fitness,4-29,Active,Active,Blue,Red,Mammal,6,34,266
+Victoria,374,Horse,Female,Peppy,B,Fitness,7-11,Active,Simple,Yellow,Orange,Mammal,6,35,267
+Croque,98,Frog,Male,Cranky,A,Nature,7-18,Elegant,Cool,Red,Orange,Amphibian,6,36,268
+Rowan,318,Tiger,Male,Jock,B,Fitness,8-26,Active,Simple,Light blue,Gray,Mammal,6,37,269
+O'Hare,253,Rabbit,Male,Smug,B,Nature,7-24,Active,Cool,Blue,Light blue,Mammal,6,38,270
+Willow,385,Sheep,Female,Snooty,B,Fashion,11-26,Cute,Gorgeous,White,Pink,Mammal,6,39,271
+Sheldon,327,Squirrel,Male,Jock,A,Play,2-26,Active,Cool,Green,Yellow,Mammal,6,40,272
+Pompom,284,Duck,Female,Peppy,B,Music,2-11,Cute,Simple,Pink,Light blue,Bird,6,41,273
+Groucho,162,Bear,Male,Cranky,B,Music,10-23,Cool,Simple,Black,Gray,Mammal,6,42,274
+Keaton,192,Eagle,Male,Smug,A,Music,6-1,Gorgeous,Cool,Blue,White,Bird,6,43,275
+Chester,79,Cub,Male,Lazy,B,Play,8-6,Simple,Simple,Yellow,Green,Mammal,6,44,276
+Agent S,1,Squirrel,Female,Peppy,B,Fitness,7-2,Active,Simple,Blue,Black,Mammal,6,45,277
+Kitt,199,Kangaroo,Female,Normal,B,Education,10-11,Elegant,Simple,Purple,Red,Mammal,6,46,278
+Gaston,150,Rabbit,Male,Cranky,B,Education,10-28,Simple,Gorgeous,Brown,Orange,Mammal,6,47,279
+Boone,51,Gorilla,Male,Jock,B,Fitness,9-12,Elegant,Cool,Colorful,Red,Mammal,6,48,280
+Bertha,35,Hippo,Female,Normal,B,Education,4-25,Cute,Elegant,Pink,White,Mammal,6,49,281
+Tad,352,Frog,Male,Jock,A,Play,8-3,Active,Simple,Yellow,Colorful,Amphibian,6,50,282
+Spork,338,Pig,Male,Lazy,B,Play,9-3,Simple,Active,Green,Colorful,Mammal,6,51,283
+Hugh,176,Pig,Male,Lazy,B,Play,12-30,Simple,Active,Beige,Yellow,Mammal,6,52,284
+Axel,23,Elephant,Male,Jock,B,Fitness,3-23,Active,Simple,Green,White,Mammal,6,53,285
+Bud,61,Lion,Male,Jock,B,Fitness,8-8,Active,Simple,Green,Yellow,Mammal,6,54,286
+Del,108,Alligator,Male,Cranky,B,Fitness,5-27,Cool,Simple,Blue,White,Amphibian,6,55,287
+Ursala,370,Bear,Female,Big Sister,A,Music,1-16,Simple,Cute,Red,Orange,Mammal,6,56,288
+Drake,120,Duck,Male,Lazy,B,Play,6-25,Cool,Simple,Brown,Red,Bird,6,57,289
+Curt,102,Bear,Male,Cranky,A,Nature,7-1,Cool,Cool,Blue,White,Mammal,6,58,290
+Annalise,14,Horse,Female,Snooty,B,Fashion,12-2,Elegant,Active,Blue,Purple,Mammal,6,59,291
+Mott,244,Lion,Male,Jock,B,Fitness,7-10,Active,Elegant,Blue,Green,Mammal,6,60,292
+Monique,241,Cat,Female,Snooty,B,Fashion,9-30,Gorgeous,Elegant,Purple,Pink,Mammal,6,61,293
+Lucha,214,Bird,Male,Smug,A,Fitness,12-12,Active,Cool,Black,Gray,Bird,6,62,294
+Kody,203,Cub,Male,Jock,B,Fitness,9-28,Active,Simple,Colorful,White,Mammal,6,63,295
+Moose,243,Mouse,Male,Jock,B,Fitness,9-13,Cool,Gorgeous,Purple,Red,Mammal,6,64,296
+Cashmere,72,Sheep,Female,Snooty,A,Fashion,4-2,Gorgeous,Elegant,Purple,Beige,Mammal,6,65,297
+Stinky,344,Cat,Male,Jock,B,Fitness,8-17,Active,Simple,Red,Blue,Mammal,6,66,298
+Quillson,295,Duck,Male,Smug,A,Music,12-22,Elegant,Cool,Beige,Orange,Bird,6,67,299
+Anicotti,11,Mouse,Female,Peppy,B,Fashion,2-24,Simple,Elegant,Red,Pink,Mammal,6,68,300
+Ed,122,Horse,Male,Smug,B,Nature,9-16,Gorgeous,Elegant,Black,Gray,Mammal,6,69,301
+T-Bone,350,Bull,Male,Cranky,B,Education,5-20,Cool,Simple,Blue,Black,Mammal,6,70,302
+Miranda,237,Duck,Female,Snooty,B,Fashion,4-23,Elegant,Gorgeous,Blue,Purple,Bird,6,71,303
+Paolo,262,Elephant,Male,Lazy,A,Nature,5-5,Simple,Elegant,Gray,Light blue,Mammal,6,72,304
+Elise,124,Monkey,Female,Snooty,B,Fashion,3-21,Elegant,Gorgeous,Purple,Red,Mammal,6,73,305
+Ken,193,Chicken,Male,Smug,A,Education,12-23,Cool,Simple,Purple,Blue,Bird,6,75,306
+Ava,21,Chicken,Female,Normal,B,Music,4-28,Elegant,Cute,Red,Gray,Bird,6,76,307
+Cleo,88,Horse,Female,Snooty,A,Education,2-9,Cute,Elegant,Light blue,White,Mammal,6,77,308
+Rolf,313,Tiger,Male,Cranky,B,Fitness,8-22,Cool,Active,Blue,Black,Mammal,6,78,309
+Grizzly,161,Bear,Male,Cranky,B,Education,7-31,Cool,Simple,Red,Black,Mammal,6,80,310
+Dora,117,Mouse,Female,Normal,B,Education,2-18,Simple,Elegant,Blue,Light blue,Mammal,6,81,311
+Opal,258,Elephant,Female,Snooty,B,Fashion,1-20,Elegant,Cool,Black,Orange,Mammal,6,82,312
+Deena,106,Duck,Female,Normal,B,Education,6-27,Simple,Cute,Colorful,Blue,Bird,6,83,313
+Cousteau,96,Frog,Male,Jock,B,Fitness,12-17,Elegant,Gorgeous,Green,Red,Amphibian,6,84,314
+Klaus,201,Bear,Male,Smug,A,Education,3-31,Simple,Simple,Gray,White,Mammal,6,85,315
+Iggly,177,Penguin,Male,Jock,B,Fitness,11-2,Active,Simple,Red,Blue,Bird,6,86,316
+Leonardo,205,Tiger,Male,Jock,B,Fitness,5-15,Active,Gorgeous,Red,Blue,Mammal,6,87,317
+Amelia,7,Eagle,Female,Snooty,B,Music,11-19,Cool,Elegant,Black,White,Bird,6,88,318
+Admiral,0,Bird,Male,Cranky,A,Nature,1-27,Cool,Cool,Black,Blue,Bird,6,89,319
+Curlos,100,Sheep,Male,Smug,B,Nature,5-8,Active,Gorgeous,Red,Green,Mammal,6,90,320
+Frobert,146,Frog,Male,Jock,B,Fitness,2-8,Active,Simple,Blue,Colorful,Amphibian,6,91,321
+Vladimir,377,Cub,Male,Cranky,B,Play,8-2,Simple,Cool,Yellow,Colorful,Mammal,6,93,322
+Louie,213,Gorilla,Male,Jock,A,Fitness,3-26,Active,Simple,Gray,Red,Mammal,6,94,323
+Claude,85,Rabbit,Male,Lazy,A,Nature,12-3,Simple,Simple,Black,Colorful,Mammal,6,95,324
+Samson,322,Mouse,Male,Jock,B,Fitness,7-5,Simple,Active,Red,Yellow,Mammal,6,96,325
+Cobb,91,Pig,Male,Jock,B,Education,10-7,Simple,Active,White,Blue,Mammal,6,97,326
+Peaches,268,Horse,Female,Normal,B,Education,11-28,Cute,Simple,Colorful,Light blue,Mammal,6,98,327
+Alli,6,Alligator,Female,Snooty,B,Fashion,11-8,Gorgeous,Elegant,Yellow,Brown,Amphibian,6,99,328
+Friga,144,Penguin,Female,Snooty,B,Fashion,10-16,Elegant,Gorgeous,Pink,Black,Bird,6,100,329
+Gigi,153,Frog,Female,Snooty,B,Fashion,8-11,Gorgeous,Elegant,Black,White,Amphibian,6,101,330
+Buzz,64,Eagle,Male,Cranky,A,Nature,12-7,Simple,Active,Yellow,Red,Bird,6,102,331
+Snooty,334,Anteater,Female,Snooty,A,Education,10-24,Simple,Simple,Green,Yellow,Mammal,6,103,332
+Robin,307,Bird,Female,Snooty,B,Fashion,12-4,Elegant,Cool,Light blue,Purple,Bird,6,104,333
+Gloria,155,Duck,Female,Snooty,B,Fashion,8-12,Gorgeous,Elegant,Black,Gray,Bird,6,105,334
+Peggy,273,Pig,Female,Peppy,B,Fashion,5-23,Cute,Active,Blue,Red,Mammal,6,106,335
+Pancetti,260,Pig,Female,Snooty,A,Music,11-14,Cute,Gorgeous,Red,Yellow,Mammal,6,107,336
+Boyd,54,Gorilla,Male,Cranky,A,Fitness,10-1,Simple,Cool,Red,Black,Mammal,6,108,337
+Marcel,224,Dog,Male,Lazy,B,Play,12-31,Simple,Cool,Green,Blue,Mammal,6,109,338
+Jacob,179,Bird,Male,Lazy,A,Nature,8-24,Simple,Simple,Green,Red,Bird,6,110,339
+Elmer,126,Horse,Male,Lazy,B,Play,10-5,Simple,Cool,Blue,White,Mammal,6,111,340
+Carrie,71,Kangaroo,Female,Normal,A,Nature,12-5,Cute,Cute,Red,Colorful,Mammal,6,112,341
+Ike,178,Bear,Male,Cranky,A,Nature,5-16,Cool,Cool,Green,Blue,Mammal,6,113,342
+Truffles,365,Pig,Female,Peppy,B,Fashion,7-28,Cute,Gorgeous,Green,Red,Mammal,6,114,343
+Pierce,278,Eagle,Male,Jock,B,Fitness,1-8,Elegant,Active,Orange,Yellow,Bird,6,115,344
+Benjamin,34,Dog,Male,Lazy,A,Nature,8-3,Simple,Simple,Red,White,Mammal,6,116,345
+Naomi,249,Cow,Female,Snooty,A,Fashion,2-28,Elegant,Gorgeous,Colorful,Purple,Mammal,6,117,346
+Sly,332,Alligator,Male,Jock,A,Play,11-15,Cool,Simple,Brown,Green,Amphibian,6,118,347
+Kevin,195,Pig,Male,Jock,A,Play,4-26,Active,Simple,Black,Red,Mammal,6,119,348
+Peck,271,Bird,Male,Jock,A,Play,7-25,Simple,Active,Beige,Red,Bird,6,120,349
+Soleil,335,Hamster,Female,Snooty,A,Education,8-9,Cool,Gorgeous,Red,Yellow,Mammal,6,121,350
+Baabara,24,Sheep,Female,Snooty,B,Fashion,3-28,Gorgeous,Elegant,Purple,Blue,Mammal,6,122,351
+Vic,373,Bull,Male,Cranky,A,Fitness,12-29,Cool,Active,Light blue,Blue,Mammal,6,123,352
+Charlise,76,Bear,Female,Big Sister,B,Fitness,4-17,Active,Cute,Red,Orange,Mammal,6,124,353
+Cyrano,104,Anteater,Male,Cranky,B,Education,3-9,Cool,Active,Yellow,Beige,Mammal,6,125,354
+Rooney,314,Kangaroo,Male,Cranky,A,Fitness,12-1,Active,Active,Gray,Black,Mammal,6,126,355
+Chops,82,Pig,Male,Smug,A,Education,10-13,Gorgeous,Elegant,Red,Green,Mammal,6,127,356
+Benedict,33,Chicken,Male,Lazy,B,Play,10-10,Simple,Simple,Blue,Purple,Bird,6,128,357
+Frank,141,Eagle,Male,Cranky,B,Education,7-30,Gorgeous,Cool,Brown,Yellow,Bird,6,129,358
+Timbra,362,Sheep,Female,Snooty,A,Education,10-21,Elegant,Gorgeous,Green,Brown,Mammal,6,130,359
+Puck,289,Penguin,Male,Lazy,B,Fitness,2-21,Active,Simple,Blue,Red,Bird,6,131,360
+Mallary,222,Duck,Female,Snooty,B,Fashion,11-17,Cool,Gorgeous,Blue,White,Bird,6,132,361
+Rory,315,Lion,Male,Jock,A,Music,8-7,Simple,Active,Blue,Red,Mammal,6,133,362
+Harry,168,Hippo,Male,Cranky,B,Education,1-7,Cool,Simple,Green,Orange,Mammal,6,134,363
+Ricky,304,Squirrel,Male,Cranky,B,Education,9-14,Cool,Simple,Blue,Red,Mammal,6,135,364
+Marcie,225,Kangaroo,Female,Normal,A,Nature,5-31,Cute,Elegant,Pink,Beige,Mammal,6,136,365
+Broffina,57,Chicken,Female,Snooty,A,Music,10-24,Gorgeous,Elegant,Black,Red,Bird,6,137,366
+Sparro,336,Bird,Male,Jock,A,Play,11-20,Active,Simple,Green,Gray,Bird,6,138,367
+Clyde,89,Horse,Male,Lazy,B,Play,5-1,Simple,Cute,Green,White,Mammal,6,139,368
+Candi,68,Mouse,Female,Peppy,A,Play,4-13,Simple,Cute,Light blue,Yellow,Mammal,6,140,369
+Colton,94,Horse,Male,Smug,A,Nature,5-22,Gorgeous,Elegant,Blue,Red,Mammal,6,141,370
+Lucy,216,Pig,Female,Normal,B,Music,6-2,Cute,Elegant,Pink,Red,Mammal,6,142,371
+Limberg,208,Mouse,Male,Cranky,B,Education,10-17,Simple,Cool,Green,Blue,Mammal,6,143,372
+Monty,242,Monkey,Male,Cranky,B,Education,12-7,Cool,Cool,Yellow,Gray,Mammal,6,144,373
+Cesar,74,Gorilla,Male,Cranky,B,Fitness,9-6,Cool,Elegant,Blue,Light blue,Mammal,6,145,374
+Rocket,309,Gorilla,Female,Big Sister,B,Fitness,4-14,Active,Cool,Pink,Red,Mammal,6,146,375
+Queenie,294,Ostrich,Female,Snooty,B,Fashion,11-13,Gorgeous,Elegant,Black,Gray,Bird,6,147,376
+Gruff,163,Goat,Male,Cranky,B,Music,8-29,Cool,Gorgeous,Purple,Black,Mammal,6,148,377
+Paula,267,Bear,Female,Big Sister,B,Fitness,3-22,Cute,Active,Orange,Green,Mammal,6,149,378
+Big Top,39,Elephant,Male,Lazy,B,Play,10-3,Simple,Active,Green,Green,Mammal,6,151,379
+Violet,375,Gorilla,Female,Snooty,B,Fitness,9-1,Gorgeous,Cool,Purple,Pink,Mammal,6,152,380
+Sandy,323,Ostrich,Female,Normal,A,Nature,10-21,Simple,Cool,Light blue,White,Bird,6,153,381
+Gwen,164,Penguin,Female,Snooty,B,Fashion,1-23,Gorgeous,Elegant,Green,White,Bird,6,154,382
+Maelle,220,Duck,Female,Snooty,B,Fashion,4-8,Cool,Simple,Pink,White,Bird,6,155,383
+Curly,101,Pig,Male,Jock,B,Fitness,7-26,Simple,Active,Yellow,Colorful,Mammal,6,156,384
+Rizzo,305,Mouse,Male,Cranky,B,Education,1-17,Simple,Cool,Black,Gray,Mammal,6,157,385
+Penelope,275,Mouse,Female,Peppy,A,Fashion,2-5,Cute,Gorgeous,Pink,Red,Mammal,6,158,386
+Rocco,308,Hippo,Male,Cranky,B,Education,8-18,Simple,Cool,Yellow,Black,Mammal,6,159,387
+Bettina,36,Mouse,Female,Normal,B,Education,6-12,Simple,Elegant,White,Red,Mammal,6,160,388
+Boris,53,Pig,Male,Cranky,A,Nature,11-6,Cool,Gorgeous,Purple,Black,Mammal,6,161,389
+Bitty,43,Hippo,Female,Snooty,A,Education,10-6,Cute,Elegant,Pink,Orange,Mammal,6,162,390
+Velma,371,Goat,Female,Snooty,B,Education,1-14,Elegant,Gorgeous,Light blue,Purple,Mammal,6,163,391
