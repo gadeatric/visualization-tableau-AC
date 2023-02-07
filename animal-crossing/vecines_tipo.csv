@@ -1,0 +1,392 @@
+,Name,Species,Gender,Personality,Subtype,Hobby,Birthday,Style 1,Style 2,Color 1,Color 2,Type
+0,Admiral,Bird,Male,Cranky,A,Nature,1900-01-27,Cool,Cool,Black,Blue,Bird
+1,Agent S,Squirrel,Female,Peppy,B,Fitness,1900-07-02,Active,Simple,Blue,Black,Mammal
+2,Agnes,Pig,Female,Big Sister,A,Play,1900-04-21,Simple,Elegant,Pink,White,Mammal
+3,Al,Gorilla,Male,Lazy,B,Fitness,1900-10-18,Active,Active,Red,White,Mammal
+4,Alfonso,Alligator,Male,Lazy,B,Play,1900-06-09,Simple,Simple,Red,Blue,Amphibian
+5,Alice,Koala,Female,Normal,B,Education,1900-08-19,Cute,Cute,Red,Pink,Mammal
+6,Alli,Alligator,Female,Snooty,B,Fashion,1900-11-08,Gorgeous,Elegant,Yellow,Brown,Amphibian
+7,Amelia,Eagle,Female,Snooty,B,Music,1900-11-19,Cool,Elegant,Black,White,Bird
+8,Anabelle,Anteater,Female,Peppy,B,Fashion,1900-02-16,Cute,Simple,Green,Blue,Mammal
+9,Anchovy,Bird,Male,Lazy,B,Play,1900-03-04,Simple,Simple,Colorful,Orange,Bird
+10,Angus,Bull,Male,Cranky,B,Fitness,1900-04-30,Cool,Cool,Red,Black,Mammal
+11,Anicotti,Mouse,Female,Peppy,B,Fashion,1900-02-24,Simple,Elegant,Red,Pink,Mammal
+12,Ankha,Cat,Female,Snooty,B,Nature,1900-09-22,Gorgeous,Simple,Colorful,Brown,Mammal
+13,Annalisa,Anteater,Female,Normal,A,Nature,1900-02-06,Elegant,Gorgeous,Red,Pink,Mammal
+14,Annalise,Horse,Female,Snooty,B,Fashion,1900-12-02,Elegant,Active,Blue,Purple,Mammal
+15,Antonio,Anteater,Male,Jock,B,Fitness,1900-10-20,Simple,Simple,Light blue,Blue,Mammal
+16,Apollo,Eagle,Male,Cranky,B,Music,1900-07-04,Cool,Simple,Black,Black,Bird
+17,Apple,Hamster,Female,Peppy,A,Play,1900-09-24,Cute,Simple,Colorful,Red,Mammal
+18,Astrid,Kangaroo,Female,Snooty,B,Music,1900-09-08,Cool,Active,Black,Colorful,Mammal
+19,Audie,Wolf,Female,Peppy,A,Fitness,1900-08-31,Cute,Active,Green,White,Mammal
+20,Aurora,Penguin,Female,Normal,B,Education,1900-01-27,Cute,Elegant,Pink,Red,Bird
+21,Ava,Chicken,Female,Normal,B,Music,1900-04-28,Elegant,Cute,Red,Gray,Bird
+22,Avery,Eagle,Male,Cranky,B,Music,1900-02-22,Simple,Gorgeous,Orange,Brown,Bird
+23,Axel,Elephant,Male,Jock,B,Fitness,1900-03-23,Active,Simple,Green,White,Mammal
+24,Baabara,Sheep,Female,Snooty,B,Fashion,1900-03-28,Gorgeous,Elegant,Purple,Blue,Mammal
+25,Bam,Deer,Male,Jock,A,Play,1900-11-07,Active,Simple,Green,Brown,Mammal
+26,Bangle,Tiger,Female,Peppy,B,Fashion,1900-08-27,Gorgeous,Cute,Yellow,Green,Mammal
+27,Barold,Cub,Male,Lazy,A,Play,1900-03-02,Simple,Cool,Yellow,Black,Mammal
+28,Bea,Dog,Female,Normal,A,Nature,1900-10-15,Simple,Cool,Light blue,Green,Mammal
+29,Beardo,Bear,Male,Smug,A,Education,1900-09-27,Elegant,Elegant,Brown,Blue,Mammal
+30,Beau,Deer,Male,Lazy,A,Nature,1900-04-05,Simple,Cute,Beige,Orange,Mammal
+31,Becky,Chicken,Female,Snooty,B,Music,1900-12-09,Gorgeous,Elegant,Purple,Pink,Bird
+32,Bella,Mouse,Female,Peppy,B,Music,1900-12-28,Cool,Active,Black,Purple,Mammal
+33,Benedict,Chicken,Male,Lazy,B,Play,1900-10-10,Simple,Simple,Blue,Purple,Bird
+34,Benjamin,Dog,Male,Lazy,A,Nature,1900-08-03,Simple,Simple,Red,White,Mammal
+35,Bertha,Hippo,Female,Normal,B,Education,1900-04-25,Cute,Elegant,Pink,White,Mammal
+36,Bettina,Mouse,Female,Normal,B,Education,1900-06-12,Simple,Elegant,White,Red,Mammal
+37,Bianca,Tiger,Female,Peppy,A,Play,1900-12-13,Cute,Cute,Pink,Orange,Mammal
+38,Biff,Hippo,Male,Jock,B,Fitness,1900-03-29,Gorgeous,Active,Black,Blue,Mammal
+39,Big Top,Elephant,Male,Lazy,B,Play,1900-10-03,Simple,Active,Green,Green,Mammal
+40,Bill,Duck,Male,Jock,A,Play,1900-02-01,Active,Active,Blue,Purple,Bird
+41,Billy,Goat,Male,Jock,A,Play,1900-03-25,Simple,Active,Blue,Purple,Mammal
+42,Biskit,Dog,Male,Lazy,B,Play,1900-05-13,Gorgeous,Simple,Purple,Colorful,Mammal
+43,Bitty,Hippo,Female,Snooty,A,Education,1900-10-06,Cute,Elegant,Pink,Orange,Mammal
+44,Blaire,Squirrel,Female,Snooty,B,Fashion,1900-07-03,Gorgeous,Elegant,Orange,Brown,Mammal
+45,Blanche,Ostrich,Female,Snooty,A,Nature,1900-12-21,Elegant,Gorgeous,Black,Brown,Bird
+46,Bluebear,Cub,Female,Peppy,B,Fashion,1900-06-24,Cute,Simple,White,Blue,Mammal
+47,Bob,Cat,Male,Lazy,B,Play,1900-01-01,Simple,Cute,Colorful,Red,Mammal
+48,Bonbon,Rabbit,Female,Peppy,A,Play,1900-03-03,Cute,Elegant,Light blue,Yellow,Mammal
+49,Bones,Dog,Male,Lazy,B,Play,1900-08-04,Simple,Cute,Beige,Brown,Mammal
+50,Boomer,Penguin,Male,Lazy,B,Fitness,1900-02-07,Simple,Cool,Brown,Beige,Bird
+51,Boone,Gorilla,Male,Jock,B,Fitness,1900-09-12,Elegant,Cool,Colorful,Red,Mammal
+52,Boots,Alligator,Male,Jock,A,Play,1900-08-07,Gorgeous,Active,Colorful,Purple,Amphibian
+53,Boris,Pig,Male,Cranky,A,Nature,1900-11-06,Cool,Gorgeous,Purple,Black,Mammal
+54,Boyd,Gorilla,Male,Cranky,A,Fitness,1900-10-01,Simple,Cool,Red,Black,Mammal
+55,Bree,Mouse,Female,Snooty,B,Fashion,1900-07-07,Elegant,Gorgeous,Black,Blue,Mammal
+56,Broccolo,Mouse,Male,Lazy,B,Play,1900-06-30,Simple,Cute,Colorful,Yellow,Mammal
+57,Broffina,Chicken,Female,Snooty,A,Music,1900-10-24,Gorgeous,Elegant,Black,Red,Bird
+58,Bruce,Deer,Male,Cranky,A,Nature,1900-05-26,Cool,Simple,Black,Red,Mammal
+59,Bubbles,Hippo,Female,Peppy,B,Fashion,1900-09-18,Active,Cute,Purple,Pink,Mammal
+60,Buck,Horse,Male,Jock,B,Fitness,1900-04-04,Active,Simple,Gray,Brown,Mammal
+61,Bud,Lion,Male,Jock,B,Fitness,1900-08-08,Active,Simple,Green,Yellow,Mammal
+62,Bunnie,Rabbit,Female,Peppy,B,Fashion,1900-05-09,Cute,Cute,Green,Pink,Mammal
+63,Butch,Dog,Male,Cranky,B,Music,1900-11-01,Cool,Simple,Blue,Gray,Mammal
+64,Buzz,Eagle,Male,Cranky,A,Nature,1900-12-07,Simple,Active,Yellow,Red,Bird
+65,Cally,Squirrel,Female,Normal,B,Nature,1900-09-04,Cute,Elegant,Red,Green,Mammal
+66,Camofrog,Frog,Male,Cranky,B,Music,1900-06-05,Cool,Active,Blue,White,Amphibian
+67,Canberra,Koala,Female,Big Sister,A,Play,1900-05-14,Active,Cool,Green,Light blue,Mammal
+68,Candi,Mouse,Female,Peppy,A,Play,1900-04-13,Simple,Cute,Light blue,Yellow,Mammal
+69,Carmen,Rabbit,Female,Peppy,B,Fashion,1900-01-06,Elegant,Cute,Green,Beige,Mammal
+70,Caroline,Squirrel,Female,Normal,B,Music,1900-07-15,Cute,Gorgeous,Colorful,White,Mammal
+71,Carrie,Kangaroo,Female,Normal,A,Nature,1900-12-05,Cute,Cute,Red,Colorful,Mammal
+72,Cashmere,Sheep,Female,Snooty,A,Fashion,1900-04-02,Gorgeous,Elegant,Purple,Beige,Mammal
+73,Celia,Eagle,Female,Normal,A,Nature,1900-03-25,Elegant,Cute,Pink,Green,Bird
+74,Cesar,Gorilla,Male,Cranky,B,Fitness,1900-09-06,Cool,Elegant,Blue,Light blue,Mammal
+75,Chadder,Mouse,Male,Smug,A,Fitness,1900-12-15,Elegant,Gorgeous,Black,Gray,Mammal
+76,Charlise,Bear,Female,Big Sister,B,Fitness,1900-04-17,Active,Cute,Red,Orange,Mammal
+77,Cheri,Cub,Female,Peppy,B,Fashion,1900-03-17,Simple,Cute,Yellow,Light blue,Mammal
+78,Cherry,Dog,Female,Big Sister,A,Music,1900-05-11,Cool,Elegant,Black,Purple,Mammal
+79,Chester,Cub,Male,Lazy,B,Play,1900-08-06,Simple,Simple,Yellow,Green,Mammal
+80,Chevre,Goat,Female,Normal,B,Education,1900-03-06,Cute,Elegant,Red,Pink,Mammal
+81,Chief,Wolf,Male,Cranky,B,Music,1900-12-19,Cool,Simple,White,Gray,Mammal
+82,Chops,Pig,Male,Smug,A,Education,1900-10-13,Gorgeous,Elegant,Red,Green,Mammal
+83,Chow,Bear,Male,Cranky,B,Fitness,1900-07-22,Cool,Gorgeous,Black,White,Mammal
+84,Chrissy,Rabbit,Female,Peppy,B,Fashion,1900-08-28,Cute,Cute,Pink,White,Mammal
+85,Claude,Rabbit,Male,Lazy,A,Nature,1900-12-03,Simple,Simple,Black,Colorful,Mammal
+86,Claudia,Tiger,Female,Snooty,A,Music,1900-11-22,Gorgeous,Elegant,Purple,White,Mammal
+87,Clay,Hamster,Male,Lazy,A,Nature,1900-10-19,Elegant,Simple,Beige,Brown,Mammal
+88,Cleo,Horse,Female,Snooty,A,Education,1900-02-09,Cute,Elegant,Light blue,White,Mammal
+89,Clyde,Horse,Male,Lazy,B,Play,1900-05-01,Simple,Cute,Green,White,Mammal
+90,Coach,Bull,Male,Jock,A,Fitness,1900-04-29,Active,Active,Blue,Red,Mammal
+91,Cobb,Pig,Male,Jock,B,Education,1900-10-07,Simple,Active,White,Blue,Mammal
+92,Coco,Rabbit,Female,Normal,B,Education,1900-03-01,Simple,Cute,Beige,Green,Mammal
+93,Cole,Rabbit,Male,Lazy,A,Nature,1900-08-10,Simple,Cute,Orange,Colorful,Mammal
+94,Colton,Horse,Male,Smug,A,Nature,1900-05-22,Gorgeous,Elegant,Blue,Red,Mammal
+95,Cookie,Dog,Female,Peppy,B,Fashion,1900-06-18,Cute,Cute,Green,Light blue,Mammal
+96,Cousteau,Frog,Male,Jock,B,Fitness,1900-12-17,Elegant,Gorgeous,Green,Red,Amphibian
+97,Cranston,Ostrich,Male,Lazy,A,Nature,1900-09-23,Simple,Cool,Beige,Brown,Bird
+98,Croque,Frog,Male,Cranky,A,Nature,1900-07-18,Elegant,Cool,Red,Orange,Amphibian
+99,Cube,Penguin,Male,Lazy,B,Play,1900-01-29,Simple,Cute,Yellow,Colorful,Bird
+100,Curlos,Sheep,Male,Smug,B,Nature,1900-05-08,Active,Gorgeous,Red,Green,Mammal
+101,Curly,Pig,Male,Jock,B,Fitness,1900-07-26,Simple,Active,Yellow,Colorful,Mammal
+102,Curt,Bear,Male,Cranky,A,Nature,1900-07-01,Cool,Cool,Blue,White,Mammal
+103,Cyd,Elephant,Male,Cranky,A,Music,1900-06-09,Cool,Active,Black,Yellow,Mammal
+104,Cyrano,Anteater,Male,Cranky,B,Education,1900-03-09,Cool,Active,Yellow,Beige,Mammal
+105,Daisy,Dog,Female,Normal,B,Education,1900-11-16,Simple,Cute,Colorful,Blue,Mammal
+106,Deena,Duck,Female,Normal,B,Education,1900-06-27,Simple,Cute,Colorful,Blue,Bird
+107,Deirdre,Deer,Female,Big Sister,A,Play,1900-05-04,Simple,Simple,Orange,Orange,Mammal
+108,Del,Alligator,Male,Cranky,B,Fitness,1900-05-27,Cool,Simple,Blue,White,Amphibian
+109,Deli,Monkey,Male,Lazy,A,Nature,1900-05-24,Gorgeous,Elegant,Purple,Brown,Mammal
+110,Derwin,Duck,Male,Lazy,B,Play,1900-05-25,Simple,Elegant,Yellow,Beige,Bird
+111,Diana,Deer,Female,Snooty,A,Education,1900-01-04,Elegant,Gorgeous,Purple,Pink,Mammal
+112,Diva,Frog,Female,Big Sister,A,Fitness,1900-10-02,Gorgeous,Elegant,Purple,Light blue,Amphibian
+113,Dizzy,Elephant,Male,Lazy,B,Play,1900-07-14,Simple,Simple,Yellow,Blue,Mammal
+114,Dobie,Wolf,Male,Cranky,A,Nature,1900-02-17,Simple,Cool,Brown,Beige,Mammal
+115,Doc,Rabbit,Male,Lazy,B,Education,1900-03-16,Simple,Elegant,Gray,Beige,Mammal
+116,Dom,Sheep,Male,Jock,A,Play,1900-03-18,Active,Cute,Red,Colorful,Mammal
+117,Dora,Mouse,Female,Normal,B,Education,1900-02-18,Simple,Elegant,Blue,Light blue,Mammal
+118,Dotty,Rabbit,Female,Peppy,B,Fashion,1900-03-14,Simple,Cute,Blue,Black,Mammal
+119,Drago,Alligator,Male,Lazy,A,Nature,1900-02-12,Elegant,Gorgeous,Orange,Red,Amphibian
+120,Drake,Duck,Male,Lazy,B,Play,1900-06-25,Cool,Simple,Brown,Red,Bird
+121,Drift,Frog,Male,Jock,B,Fitness,1900-10-09,Simple,Active,Orange,Red,Amphibian
+122,Ed,Horse,Male,Smug,B,Nature,1900-09-16,Gorgeous,Elegant,Black,Gray,Mammal
+123,Egbert,Chicken,Male,Lazy,B,Play,1900-10-14,Simple,Simple,Beige,Brown,Bird
+124,Elise,Monkey,Female,Snooty,B,Fashion,1900-03-21,Elegant,Gorgeous,Purple,Red,Mammal
+125,Ellie,Elephant,Female,Normal,A,Nature,1900-05-12,Simple,Cute,Gray,Pink,Mammal
+126,Elmer,Horse,Male,Lazy,B,Play,1900-10-05,Simple,Cool,Blue,White,Mammal
+127,Eloise,Elephant,Female,Snooty,B,Fashion,1900-12-08,Elegant,Simple,Green,Orange,Mammal
+128,Elvis,Lion,Male,Cranky,B,Education,1900-07-23,Gorgeous,Elegant,Red,Black,Mammal
+129,Erik,Deer,Male,Lazy,A,Nature,1900-07-27,Simple,Simple,Beige,Red,Mammal
+130,Eugene,Koala,Male,Smug,A,Music,1900-10-26,Cool,Gorgeous,Black,Gray,Mammal
+131,Eunice,Sheep,Female,Normal,B,Fashion,1900-04-03,Simple,Elegant,Beige,Orange,Mammal
+132,Fang,Wolf,Male,Cranky,B,Education,1900-12-18,Simple,Cool,White,Light blue,Mammal
+133,Fauna,Deer,Female,Normal,A,Nature,1900-03-26,Simple,Cute,Beige,White,Mammal
+134,Felicity,Cat,Female,Peppy,B,Fashion,1900-03-30,Cute,Cute,Yellow,Orange,Mammal
+135,Filbert,Squirrel,Male,Lazy,A,Nature,1900-06-03,Simple,Cute,Blue,White,Mammal
+136,Flip,Monkey,Male,Jock,A,Music,1900-11-21,Active,Simple,Blue,Yellow,Mammal
+137,Flo,Penguin,Female,Big Sister,A,Music,1900-09-02,Cool,Gorgeous,Red,Purple,Bird
+138,Flora,Ostrich,Female,Peppy,A,Play,1900-02-09,Cute,Active,Colorful,Pink,Bird
+139,Flurry,Hamster,Female,Normal,A,Nature,1900-01-30,Elegant,Cute,Red,Pink,Mammal
+140,Francine,Rabbit,Female,Snooty,B,Fashion,1900-01-22,Elegant,Gorgeous,Blue,Black,Mammal
+141,Frank,Eagle,Male,Cranky,B,Education,1900-07-30,Gorgeous,Cool,Brown,Yellow,Bird
+142,Freckles,Duck,Female,Peppy,B,Fashion,1900-02-19,Simple,Cute,Green,Colorful,Bird
+143,Freya,Wolf,Female,Snooty,B,Fashion,1900-12-14,Elegant,Cool,Green,Blue,Mammal
+144,Friga,Penguin,Female,Snooty,B,Fashion,1900-10-16,Elegant,Gorgeous,Pink,Black,Bird
+145,Frita,Sheep,Female,Big Sister,A,Music,1900-07-16,Active,Cute,Yellow,Red,Mammal
+146,Frobert,Frog,Male,Jock,B,Fitness,1900-02-08,Active,Simple,Blue,Colorful,Amphibian
+147,Fuchsia,Deer,Female,Big Sister,A,Music,1900-09-19,Cool,Cool,Pink,Pink,Mammal
+148,Gabi,Rabbit,Female,Peppy,B,Fashion,1900-12-16,Cute,Gorgeous,Brown,Red,Mammal
+149,Gala,Pig,Female,Normal,B,Education,1900-03-05,Cute,Elegant,Pink,White,Mammal
+150,Gaston,Rabbit,Male,Cranky,B,Education,1900-10-28,Simple,Gorgeous,Brown,Orange,Mammal
+151,Gayle,Alligator,Female,Normal,A,Nature,1900-05-17,Cute,Cute,Pink,White,Amphibian
+152,Genji,Rabbit,Male,Jock,B,Fitness,1900-01-21,Elegant,Simple,Green,Purple,Mammal
+153,Gigi,Frog,Female,Snooty,B,Fashion,1900-08-11,Gorgeous,Elegant,Black,White,Amphibian
+154,Gladys,Ostrich,Female,Normal,B,Education,1900-01-15,Elegant,Cute,Green,Pink,Bird
+155,Gloria,Duck,Female,Snooty,B,Fashion,1900-08-12,Gorgeous,Elegant,Black,Gray,Bird
+156,Goldie,Dog,Female,Normal,B,Nature,1900-12-27,Simple,Cute,Yellow,Orange,Mammal
+157,Gonzo,Koala,Male,Cranky,A,Nature,1900-10-13,Simple,Cool,Black,Green,Mammal
+158,Goose,Chicken,Male,Jock,B,Fitness,1900-10-04,Simple,Active,Blue,White,Bird
+159,Graham,Hamster,Male,Smug,A,Education,1900-06-20,Simple,Cool,Green,Orange,Mammal
+160,Greta,Mouse,Female,Snooty,A,Education,1900-09-05,Elegant,Simple,Pink,Purple,Mammal
+161,Grizzly,Bear,Male,Cranky,B,Education,1900-07-31,Cool,Simple,Red,Black,Mammal
+162,Groucho,Bear,Male,Cranky,B,Music,1900-10-23,Cool,Simple,Black,Gray,Mammal
+163,Gruff,Goat,Male,Cranky,B,Music,1900-08-29,Cool,Gorgeous,Purple,Black,Mammal
+164,Gwen,Penguin,Female,Snooty,B,Fashion,1900-01-23,Gorgeous,Elegant,Green,White,Bird
+165,Hamlet,Hamster,Male,Jock,A,Play,1900-05-30,Simple,Active,Purple,Blue,Mammal
+166,Hamphrey,Hamster,Male,Cranky,A,Nature,1900-02-25,Cool,Simple,Gray,Beige,Mammal
+167,Hans,Gorilla,Male,Smug,A,Fitness,1900-12-05,Elegant,Gorgeous,Gray,Blue,Mammal
+168,Harry,Hippo,Male,Cranky,B,Education,1900-01-07,Cool,Simple,Green,Orange,Mammal
+169,Hazel,Squirrel,Female,Big Sister,A,Play,1900-08-30,Active,Cute,Red,Yellow,Mammal
+170,Henry,Frog,Male,Smug,A,Music,1900-09-21,Cool,Simple,Light blue,Blue,Amphibian
+171,Hippeux,Hippo,Male,Smug,A,Education,1900-10-15,Elegant,Gorgeous,Brown,Green,Mammal
+172,Hopkins,Rabbit,Male,Lazy,A,Nature,1900-03-11,Simple,Active,Blue,Yellow,Mammal
+173,Hopper,Penguin,Male,Cranky,B,Music,1900-04-06,Cool,Simple,Yellow,Red,Bird
+174,Hornsby,Rhino,Male,Lazy,A,Nature,1900-03-20,Simple,Simple,Green,Brown,Mammal
+175,Huck,Frog,Male,Smug,A,Fitness,1900-07-09,Simple,Cool,Green,Yellow,Amphibian
+176,Hugh,Pig,Male,Lazy,B,Play,1900-12-30,Simple,Active,Beige,Yellow,Mammal
+177,Iggly,Penguin,Male,Jock,B,Fitness,1900-11-02,Active,Simple,Red,Blue,Bird
+178,Ike,Bear,Male,Cranky,A,Nature,1900-05-16,Cool,Cool,Green,Blue,Mammal
+179,Jacob,Bird,Male,Lazy,A,Nature,1900-08-24,Simple,Simple,Green,Red,Bird
+180,Jacques,Bird,Male,Smug,A,Music,1900-06-22,Cool,Simple,Green,Black,Bird
+181,Jambette,Frog,Female,Normal,B,Fashion,1900-10-27,Cool,Cool,Brown,Brown,Amphibian
+182,Jay,Bird,Male,Jock,B,Fitness,1900-07-17,Active,Active,Blue,Light blue,Bird
+183,Jeremiah,Frog,Male,Lazy,B,Play,1900-07-08,Simple,Simple,Orange,Yellow,Amphibian
+184,Jitters,Bird,Male,Jock,B,Fitness,1900-02-02,Active,Active,Yellow,Orange,Bird
+185,Joey,Duck,Male,Lazy,B,Play,1900-01-03,Simple,Simple,Green,Blue,Bird
+186,Judy,Cub,Female,Snooty,A,Music,1900-03-10,Cute,Elegant,Pink,White,Mammal
+187,Julia,Ostrich,Female,Snooty,A,Education,1900-07-31,Elegant,Gorgeous,Purple,Red,Bird
+188,Julian,Horse,Male,Smug,A,Music,1900-03-15,Gorgeous,Cool,Purple,Blue,Mammal
+189,June,Cub,Female,Normal,A,Nature,1900-05-21,Cute,Simple,White,Red,Mammal
+190,Kabuki,Cat,Male,Cranky,B,Music,1900-11-29,Simple,Simple,Purple,Red,Mammal
+191,Katt,Cat,Female,Big Sister,A,Music,1900-04-27,Cool,Cool,Purple,Black,Mammal
+192,Keaton,Eagle,Male,Smug,A,Music,1900-06-01,Gorgeous,Cool,Blue,White,Bird
+193,Ken,Chicken,Male,Smug,A,Education,1900-12-23,Cool,Simple,Purple,Blue,Bird
+194,Ketchup,Duck,Female,Peppy,A,Play,1900-07-27,Cute,Cute,Light blue,White,Bird
+195,Kevin,Pig,Male,Jock,A,Play,1900-04-26,Active,Simple,Black,Red,Mammal
+196,Kid Cat,Cat,Male,Jock,B,Fitness,1900-08-01,Active,Simple,Red,Red,Mammal
+197,Kidd,Goat,Male,Smug,B,Education,1900-06-28,Elegant,Cool,Gray,White,Mammal
+198,Kiki,Cat,Female,Normal,B,Education,1900-10-08,Simple,Simple,Brown,Beige,Mammal
+199,Kitt,Kangaroo,Female,Normal,B,Education,1900-10-11,Elegant,Simple,Purple,Red,Mammal
+200,Kitty,Cat,Female,Snooty,B,Fashion,1900-02-15,Elegant,Gorgeous,Green,Gray,Mammal
+201,Klaus,Bear,Male,Smug,A,Education,1900-03-31,Simple,Simple,Gray,White,Mammal
+202,Knox,Chicken,Male,Cranky,B,Education,1900-11-23,Elegant,Gorgeous,Brown,Red,Bird
+203,Kody,Cub,Male,Jock,B,Fitness,1900-09-28,Active,Simple,Colorful,White,Mammal
+204,Kyle,Wolf,Male,Smug,A,Music,1900-12-06,Gorgeous,Cool,Black,White,Mammal
+205,Leonardo,Tiger,Male,Jock,B,Fitness,1900-05-15,Active,Gorgeous,Red,Blue,Mammal
+206,Leopold,Lion,Male,Smug,A,Education,1900-08-14,Elegant,Gorgeous,Purple,Green,Mammal
+207,Lily,Frog,Female,Normal,B,Education,1900-02-04,Cute,Simple,White,Yellow,Amphibian
+208,Limberg,Mouse,Male,Cranky,B,Education,1900-10-17,Simple,Cool,Green,Blue,Mammal
+209,Lionel,Lion,Male,Smug,A,Music,1900-07-29,Gorgeous,Active,Green,Gray,Mammal
+210,Lobo,Wolf,Male,Cranky,B,Education,1900-11-05,Cool,Active,Black,Beige,Mammal
+211,Lolly,Cat,Female,Normal,B,Music,1900-03-27,Simple,Simple,Gray,Pink,Mammal
+212,Lopez,Deer,Male,Smug,A,Education,1900-08-20,Gorgeous,Gorgeous,Gray,Gray,Mammal
+213,Louie,Gorilla,Male,Jock,A,Fitness,1900-03-26,Active,Simple,Gray,Red,Mammal
+214,Lucha,Bird,Male,Smug,A,Fitness,1900-12-12,Active,Cool,Black,Gray,Bird
+215,Lucky,Dog,Male,Lazy,B,Play,1900-11-04,Simple,Simple,Beige,White,Mammal
+216,Lucy,Pig,Female,Normal,B,Music,1900-06-02,Cute,Elegant,Pink,Red,Mammal
+217,Lyman,Koala,Male,Jock,A,Play,1900-10-12,Simple,Active,Light blue,Yellow,Mammal
+218,Mac,Dog,Male,Jock,B,Fitness,1900-11-11,Active,Cool,Red,Black,Mammal
+219,Maddie,Dog,Female,Peppy,A,Play,1900-01-11,Simple,Cute,Purple,Pink,Mammal
+220,Maelle,Duck,Female,Snooty,B,Fashion,1900-04-08,Cool,Simple,Pink,White,Bird
+221,Maggie,Pig,Female,Normal,A,Nature,1900-09-03,Cute,Elegant,Green,Yellow,Mammal
+222,Mallary,Duck,Female,Snooty,B,Fashion,1900-11-17,Cool,Gorgeous,Blue,White,Bird
+223,Maple,Cub,Female,Normal,B,Education,1900-06-15,Simple,Cute,Beige,Green,Mammal
+224,Marcel,Dog,Male,Lazy,B,Play,1900-12-31,Simple,Cool,Green,Blue,Mammal
+225,Marcie,Kangaroo,Female,Normal,A,Nature,1900-05-31,Cute,Elegant,Pink,Beige,Mammal
+226,Margie,Elephant,Female,Normal,B,Education,1900-01-28,Elegant,Cute,Pink,Red,Mammal
+227,Marina,Octopus,Female,Normal,B,Music,1900-06-26,Cute,Cute,Pink,Red,Amphibian
+228,Marshal,Squirrel,Male,Smug,A,Music,1900-09-29,Elegant,Cool,Light blue,Blue,Mammal
+229,Mathilda,Kangaroo,Female,Snooty,B,Fitness,1900-11-12,Cool,Gorgeous,White,Red,Mammal
+230,Megan,Bear,Female,Normal,A,Nature,1900-03-13,Cute,Simple,Yellow,Light blue,Mammal
+231,Melba,Koala,Female,Normal,B,Education,1900-04-12,Cute,Cute,White,Green,Mammal
+232,Merengue,Rhino,Female,Normal,A,Nature,1900-03-19,Cute,Simple,White,Red,Mammal
+233,Merry,Cat,Female,Peppy,B,Fashion,1900-06-29,Cute,Cute,Pink,Light blue,Mammal
+234,Midge,Bird,Female,Normal,B,Education,1900-03-12,Cute,Simple,Pink,Pink,Bird
+235,Mint,Squirrel,Female,Snooty,B,Fashion,1900-05-02,Gorgeous,Cute,Pink,Purple,Mammal
+236,Mira,Rabbit,Female,Big Sister,A,Fitness,1900-07-06,Active,Cool,Red,Yellow,Mammal
+237,Miranda,Duck,Female,Snooty,B,Fashion,1900-04-23,Elegant,Gorgeous,Blue,Purple,Bird
+238,Mitzi,Cat,Female,Normal,B,Education,1900-09-25,Simple,Simple,Brown,Beige,Mammal
+239,Moe,Cat,Male,Lazy,B,Play,1900-01-12,Active,Simple,Black,Gray,Mammal
+240,Molly,Duck,Female,Normal,A,Nature,1900-03-07,Cute,Simple,Yellow,Pink,Bird
+241,Monique,Cat,Female,Snooty,B,Fashion,1900-09-30,Gorgeous,Elegant,Purple,Pink,Mammal
+242,Monty,Monkey,Male,Cranky,B,Education,1900-12-07,Cool,Cool,Yellow,Gray,Mammal
+243,Moose,Mouse,Male,Jock,B,Fitness,1900-09-13,Cool,Gorgeous,Purple,Red,Mammal
+244,Mott,Lion,Male,Jock,B,Fitness,1900-07-10,Active,Elegant,Blue,Green,Mammal
+245,Muffy,Sheep,Female,Big Sister,A,Music,1900-02-14,Gorgeous,Elegant,Black,Purple,Mammal
+246,Murphy,Cub,Male,Cranky,A,Education,1900-12-29,Simple,Cool,Blue,White,Mammal
+247,Nan,Goat,Female,Normal,B,Nature,1900-08-24,Simple,Elegant,Orange,Yellow,Mammal
+248,Nana,Monkey,Female,Normal,B,Education,1900-08-23,Cute,Cute,Pink,White,Mammal
+249,Naomi,Cow,Female,Snooty,A,Fashion,1900-02-28,Elegant,Gorgeous,Colorful,Purple,Mammal
+250,Nate,Bear,Male,Lazy,B,Play,1900-08-16,Simple,Simple,White,Green,Mammal
+251,Nibbles,Squirrel,Female,Peppy,B,Fashion,1900-07-19,Cute,Active,Red,Yellow,Mammal
+252,Norma,Cow,Female,Normal,A,Nature,1900-09-20,Cute,Simple,White,Light blue,Mammal
+253,O'Hare,Rabbit,Male,Smug,B,Nature,1900-07-24,Active,Cool,Blue,Light blue,Mammal
+254,Octavian,Octopus,Male,Cranky,B,Play,1900-09-20,Cool,Simple,Black,White,Amphibian
+255,Olaf,Anteater,Male,Smug,A,Education,1900-05-19,Elegant,Gorgeous,Red,Black,Mammal
+256,Olive,Cub,Female,Normal,A,Nature,1900-07-12,Simple,Simple,Brown,Yellow,Mammal
+257,Olivia,Cat,Female,Snooty,B,Music,1900-02-03,Cool,Elegant,White,Black,Mammal
+258,Opal,Elephant,Female,Snooty,B,Fashion,1900-01-20,Elegant,Cool,Black,Orange,Mammal
+259,Ozzie,Koala,Male,Lazy,B,Play,1900-05-07,Simple,Cute,Yellow,Orange,Mammal
+260,Pancetti,Pig,Female,Snooty,A,Music,1900-11-14,Cute,Gorgeous,Red,Yellow,Mammal
+261,Pango,Anteater,Female,Peppy,B,Fashion,1900-11-09,Elegant,Cool,Orange,Purple,Mammal
+262,Paolo,Elephant,Male,Lazy,A,Nature,1900-05-05,Simple,Elegant,Gray,Light blue,Mammal
+263,Papi,Horse,Male,Lazy,A,Nature,1900-01-10,Simple,Simple,Orange,Light blue,Mammal
+264,Pashmina,Goat,Female,Big Sister,A,Music,1900-12-26,Cool,Elegant,Red,Colorful,Mammal
+265,Pate,Duck,Female,Peppy,B,Fashion,1900-02-23,Simple,Cute,Yellow,White,Bird
+266,Patty,Cow,Female,Peppy,B,Fashion,1900-05-10,Simple,Cute,Orange,Red,Mammal
+267,Paula,Bear,Female,Big Sister,B,Fitness,1900-03-22,Cute,Active,Orange,Green,Mammal
+268,Peaches,Horse,Female,Normal,B,Education,1900-11-28,Cute,Simple,Colorful,Light blue,Mammal
+269,Peanut,Squirrel,Female,Peppy,B,Fashion,1900-06-08,Cute,Cute,Red,Colorful,Mammal
+270,Pecan,Squirrel,Female,Snooty,B,Fashion,1900-09-10,Elegant,Gorgeous,Purple,Beige,Mammal
+271,Peck,Bird,Male,Jock,A,Play,1900-07-25,Simple,Active,Beige,Red,Bird
+272,Peewee,Gorilla,Male,Cranky,B,Fitness,1900-09-11,Active,Cool,Orange,Blue,Mammal
+273,Peggy,Pig,Female,Peppy,B,Fashion,1900-05-23,Cute,Active,Blue,Red,Mammal
+274,Pekoe,Cub,Female,Normal,B,Nature,1900-05-18,Elegant,Cute,Red,Beige,Mammal
+275,Penelope,Mouse,Female,Peppy,A,Fashion,1900-02-05,Cute,Gorgeous,Pink,Red,Mammal
+276,Phil,Ostrich,Male,Smug,A,Music,1900-11-27,Elegant,Cool,Green,Red,Bird
+277,Phoebe,Ostrich,Female,Big Sister,A,Fitness,1900-04-22,Gorgeous,Cool,Black,Red,Bird
+278,Pierce,Eagle,Male,Jock,B,Fitness,1900-01-08,Elegant,Active,Orange,Yellow,Bird
+279,Pietro,Sheep,Male,Smug,A,Music,1900-04-19,Gorgeous,Simple,Colorful,Red,Mammal
+280,Pinky,Bear,Female,Peppy,B,Fashion,1900-09-09,Cute,Simple,Red,Pink,Mammal
+281,Piper,Bird,Female,Peppy,A,Play,1900-04-18,Elegant,Gorgeous,Black,White,Bird
+282,Pippy,Rabbit,Female,Peppy,B,Fashion,1900-06-14,Cute,Simple,Green,Brown,Mammal
+283,Plucky,Chicken,Female,Big Sister,A,Play,1900-10-12,Cool,Simple,Light blue,Yellow,Bird
+284,Pompom,Duck,Female,Peppy,B,Music,1900-02-11,Cute,Simple,Pink,Light blue,Bird
+285,Poncho,Cub,Male,Jock,B,Fitness,1900-01-02,Simple,Simple,Orange,Yellow,Mammal
+286,Poppy,Squirrel,Female,Normal,B,Education,1900-08-05,Cute,Elegant,Green,Yellow,Mammal
+287,Portia,Dog,Female,Snooty,B,Fashion,1900-10-25,Elegant,Gorgeous,Purple,Black,Mammal
+288,Prince,Frog,Male,Lazy,B,Play,1900-07-21,Simple,Active,Yellow,White,Amphibian
+289,Puck,Penguin,Male,Lazy,B,Fitness,1900-02-21,Active,Simple,Blue,Red,Bird
+290,Puddles,Frog,Female,Peppy,B,Fashion,1900-01-13,Cute,Gorgeous,Green,Pink,Amphibian
+291,Pudge,Cub,Male,Lazy,B,Play,1900-06-11,Simple,Simple,Green,Blue,Mammal
+292,Punchy,Cat,Male,Lazy,B,Play,1900-04-11,Simple,Simple,Blue,Light blue,Mammal
+293,Purrl,Cat,Female,Snooty,B,Fashion,1900-05-29,Cool,Elegant,Gray,Blue,Mammal
+294,Queenie,Ostrich,Female,Snooty,B,Fashion,1900-11-13,Gorgeous,Elegant,Black,Gray,Bird
+295,Quillson,Duck,Male,Smug,A,Music,1900-12-22,Elegant,Cool,Beige,Orange,Bird
+296,Raddle,Frog,Male,Lazy,A,Nature,1900-06-06,Elegant,Simple,White,Gray,Amphibian
+297,Rasher,Pig,Male,Cranky,B,Music,1900-04-07,Cool,Simple,Blue,Black,Mammal
+298,Raymond,Cat,Male,Smug,B,Nature,1900-10-01,Elegant,Cool,Black,Gray,Mammal
+299,Renée,Rhino,Female,Big Sister,A,Music,1900-05-28,Cool,Active,Purple,Yellow,Mammal
+300,Reneigh,Horse,Female,Big Sister,A,Play,1900-06-04,Cool,Gorgeous,Black,Purple,Mammal
+301,Rex,Lion,Male,Lazy,A,Nature,1900-07-24,Simple,Cute,Blue,Light blue,Mammal
+302,Rhonda,Rhino,Female,Normal,B,Music,1900-01-24,Elegant,Gorgeous,Purple,Black,Mammal
+303,Ribbot,Frog,Male,Jock,B,Fitness,1900-02-13,Simple,Active,Blue,Light blue,Amphibian
+304,Ricky,Squirrel,Male,Cranky,B,Education,1900-09-14,Cool,Simple,Blue,Red,Mammal
+305,Rizzo,Mouse,Male,Cranky,B,Education,1900-01-17,Simple,Cool,Black,Gray,Mammal
+306,Roald,Penguin,Male,Jock,B,Fitness,1900-01-05,Active,Simple,Red,Yellow,Bird
+307,Robin,Bird,Female,Snooty,B,Fashion,1900-12-04,Elegant,Cool,Light blue,Purple,Bird
+308,Rocco,Hippo,Male,Cranky,B,Education,1900-08-18,Simple,Cool,Yellow,Black,Mammal
+309,Rocket,Gorilla,Female,Big Sister,B,Fitness,1900-04-14,Active,Cool,Pink,Red,Mammal
+310,Rod,Mouse,Male,Jock,B,Fitness,1900-08-14,Active,Cool,Blue,Light blue,Mammal
+311,Rodeo,Bull,Male,Lazy,B,Fitness,1900-10-29,Simple,Cool,Black,Red,Mammal
+312,Rodney,Hamster,Male,Smug,A,Music,1900-11-10,Gorgeous,Cool,Pink,Colorful,Mammal
+313,Rolf,Tiger,Male,Cranky,B,Fitness,1900-08-22,Cool,Active,Blue,Black,Mammal
+314,Rooney,Kangaroo,Male,Cranky,A,Fitness,1900-12-01,Active,Active,Gray,Black,Mammal
+315,Rory,Lion,Male,Jock,A,Music,1900-08-07,Simple,Active,Blue,Red,Mammal
+316,Roscoe,Horse,Male,Cranky,B,Music,1900-06-16,Cool,Gorgeous,Black,Gray,Mammal
+317,Rosie,Cat,Female,Peppy,A,Music,1900-02-27,Cute,Cute,Pink,Red,Mammal
+318,Rowan,Tiger,Male,Jock,B,Fitness,1900-08-26,Active,Simple,Light blue,Gray,Mammal
+319,Ruby,Rabbit,Female,Peppy,B,Nature,1900-12-25,Cute,Active,Light blue,Pink,Mammal
+320,Rudy,Cat,Male,Jock,A,Play,1900-12-20,Active,Simple,Yellow,Beige,Mammal
+321,Sally,Squirrel,Female,Normal,B,Music,1900-06-19,Simple,Elegant,White,Beige,Mammal
+322,Samson,Mouse,Male,Jock,B,Fitness,1900-07-05,Simple,Active,Red,Yellow,Mammal
+323,Sandy,Ostrich,Female,Normal,A,Nature,1900-10-21,Simple,Cool,Light blue,White,Bird
+324,Savannah,Horse,Female,Normal,B,Music,1900-01-25,Cool,Simple,Light blue,Blue,Mammal
+325,Scoot,Duck,Male,Jock,B,Fitness,1900-06-13,Active,Simple,Beige,Blue,Bird
+326,Shari,Monkey,Female,Big Sister,A,Music,1900-04-10,Cute,Active,Light blue,Yellow,Mammal
+327,Sheldon,Squirrel,Male,Jock,A,Play,1900-02-26,Active,Cool,Green,Yellow,Mammal
+328,Shep,Dog,Male,Smug,A,Education,1900-11-24,Simple,Cool,Light blue,Blue,Mammal
+329,Sherb,Goat,Male,Lazy,A,Nature,1900-01-18,Simple,Cute,Gray,Blue,Mammal
+330,Simon,Monkey,Male,Lazy,B,Play,1900-01-19,Simple,Active,Red,Colorful,Mammal
+331,Skye,Wolf,Female,Normal,A,Music,1900-03-24,Cute,Cute,Blue,White,Mammal
+332,Sly,Alligator,Male,Jock,A,Play,1900-11-15,Cool,Simple,Brown,Green,Amphibian
+333,Snake,Rabbit,Male,Jock,B,Fitness,1900-11-03,Active,Simple,Black,Blue,Mammal
+334,Snooty,Anteater,Female,Snooty,A,Education,1900-10-24,Simple,Simple,Green,Yellow,Mammal
+335,Soleil,Hamster,Female,Snooty,A,Education,1900-08-09,Cool,Gorgeous,Red,Yellow,Mammal
+336,Sparro,Bird,Male,Jock,A,Play,1900-11-20,Active,Simple,Green,Gray,Bird
+337,Spike,Rhino,Male,Cranky,A,Nature,1900-06-17,Cool,Gorgeous,Black,Gray,Mammal
+338,Spork,Pig,Male,Lazy,B,Play,1900-09-03,Simple,Active,Green,Colorful,Mammal
+339,Sprinkle,Penguin,Female,Peppy,A,Play,1900-02-20,Cute,Elegant,Light blue,White,Bird
+340,Sprocket,Ostrich,Male,Jock,A,Music,1900-12-01,Simple,Active,Orange,Green,Bird
+341,Static,Squirrel,Male,Cranky,B,Music,1900-07-09,Cool,Active,Black,Yellow,Mammal
+342,Stella,Sheep,Female,Normal,A,Nature,1900-04-09,Simple,Simple,Yellow,Beige,Mammal
+343,Sterling,Eagle,Male,Jock,B,Fitness,1900-12-11,Simple,Elegant,Blue,Red,Bird
+344,Stinky,Cat,Male,Jock,B,Fitness,1900-08-17,Active,Simple,Red,Blue,Mammal
+345,Stitches,Cub,Male,Lazy,B,Play,1900-02-10,Simple,Cute,Colorful,White,Mammal
+346,Stu,Bull,Male,Lazy,A,Nature,1900-04-20,Simple,Simple,Brown,Beige,Mammal
+347,Sydney,Koala,Female,Normal,B,Music,1900-06-21,Cute,Simple,Beige,Yellow,Mammal
+348,Sylvana,Squirrel,Female,Normal,A,Nature,1900-10-22,Cute,Simple,Green,Purple,Mammal
+349,Sylvia,Kangaroo,Female,Big Sister,B,Music,1900-05-03,Simple,Gorgeous,Yellow,Green,Mammal
+350,T-Bone,Bull,Male,Cranky,B,Education,1900-05-20,Cool,Simple,Blue,Black,Mammal
+351,Tabby,Cat,Female,Peppy,B,Music,1900-08-13,Active,Cool,Black,Gray,Mammal
+352,Tad,Frog,Male,Jock,A,Play,1900-08-03,Active,Simple,Yellow,Colorful,Amphibian
+353,Tammi,Monkey,Female,Peppy,B,Fashion,1900-04-02,Cute,Active,Purple,Green,Mammal
+354,Tammy,Cub,Female,Big Sister,A,Play,1900-06-23,Cool,Active,Red,Purple,Mammal
+355,Tangy,Cat,Female,Peppy,B,Music,1900-06-17,Simple,Cute,Green,Yellow,Mammal
+356,Tank,Rhino,Male,Jock,B,Fitness,1900-05-06,Active,Simple,Red,Green,Mammal
+357,Tasha,Squirrel,Female,Snooty,A,Fitness,1900-11-30,Elegant,Gorgeous,Beige,Gray,Mammal
+358,Teddy,Bear,Male,Jock,B,Fitness,1900-09-26,Simple,Simple,Yellow,Orange,Mammal
+359,Tex,Penguin,Male,Smug,A,Music,1900-10-06,Cool,Elegant,Black,Gray,Bird
+360,Tia,Elephant,Female,Normal,A,Nature,1900-11-18,Cute,Elegant,Black,White,Mammal
+361,Tiffany,Rabbit,Female,Snooty,B,Fashion,1900-01-09,Gorgeous,Cool,Black,Red,Mammal
+362,Timbra,Sheep,Female,Snooty,A,Education,1900-10-21,Elegant,Gorgeous,Green,Brown,Mammal
+363,Tipper,Cow,Female,Snooty,B,Fashion,1900-08-25,Gorgeous,Cute,Colorful,Pink,Mammal
+364,Tom,Cat,Male,Cranky,B,Education,1900-12-10,Cool,Simple,Black,Gray,Mammal
+365,Truffles,Pig,Female,Peppy,B,Fashion,1900-07-28,Cute,Gorgeous,Green,Red,Mammal
+366,Tucker,Elephant,Male,Lazy,A,Nature,1900-09-07,Active,Simple,Yellow,Orange,Mammal
+367,Tutu,Bear,Female,Peppy,B,Fashion,1900-09-15,Cute,Simple,Pink,Red,Mammal
+368,Twiggy,Bird,Female,Peppy,B,Fashion,1900-07-13,Simple,Cute,Pink,Blue,Bird
+369,Tybalt,Tiger,Male,Jock,A,Play,1900-08-19,Active,Simple,Blue,Purple,Mammal
+370,Ursala,Bear,Female,Big Sister,A,Music,1900-01-16,Simple,Cute,Red,Orange,Mammal
+371,Velma,Goat,Female,Snooty,B,Education,1900-01-14,Elegant,Gorgeous,Light blue,Purple,Mammal
+372,Vesta,Sheep,Female,Normal,B,Fashion,1900-04-16,Simple,Cute,Orange,Red,Mammal
+373,Vic,Bull,Male,Cranky,A,Fitness,1900-12-29,Cool,Active,Light blue,Blue,Mammal
+374,Victoria,Horse,Female,Peppy,B,Fitness,1900-07-11,Active,Simple,Yellow,Orange,Mammal
+375,Violet,Gorilla,Female,Snooty,B,Fitness,1900-09-01,Gorgeous,Cool,Purple,Pink,Mammal
+376,Vivian,Wolf,Female,Snooty,A,Education,1900-01-26,Gorgeous,Elegant,Gray,Purple,Mammal
+377,Vladimir,Cub,Male,Cranky,B,Play,1900-08-02,Simple,Cool,Yellow,Colorful,Mammal
+378,Wade,Penguin,Male,Lazy,A,Nature,1900-10-30,Simple,Gorgeous,Light blue,Blue,Bird
+379,Walker,Dog,Male,Lazy,B,Play,1900-06-10,Simple,Simple,Orange,Red,Mammal
+380,Walt,Kangaroo,Male,Cranky,A,Fitness,1900-04-24,Cool,Cool,Black,Gray,Mammal
+381,Wart Jr.,Frog,Male,Cranky,B,Education,1900-08-21,Simple,Simple,Blue,Purple,Amphibian
+382,Weber,Duck,Male,Lazy,A,Nature,1900-06-30,Cool,Simple,Blue,Black,Bird
+383,Wendy,Sheep,Female,Peppy,B,Fashion,1900-08-15,Cool,Gorgeous,Red,Green,Mammal
+384,Whitney,Wolf,Female,Snooty,B,Fashion,1900-09-17,Elegant,Cool,Blue,Light blue,Mammal
+385,Willow,Sheep,Female,Snooty,B,Fashion,1900-11-26,Cute,Gorgeous,White,Pink,Mammal
+386,Winnie,Horse,Female,Peppy,B,Fashion,1900-01-31,Cool,Simple,White,Gray,Mammal
+387,Wolfgang,Wolf,Male,Cranky,B,Education,1900-11-25,Cool,Active,Black,Green,Mammal
+388,Yuka,Koala,Female,Snooty,B,Fashion,1900-07-20,Cool,Elegant,Orange,Yellow,Mammal
+389,Zell,Deer,Male,Smug,A,Music,1900-06-07,Cool,Gorgeous,Purple,Gray,Mammal
+390,Zucker,Octopus,Male,Lazy,A,Nature,1900-03-08,Simple,Cute,Blue,Yellow,Amphibian
